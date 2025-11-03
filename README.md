@@ -162,6 +162,10 @@
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks with a fixed number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#SSHIOZ#0)
 
+Отрицательный питфалс по сути кубы с расположеными между ними узкими ямами 
+
+[negative pitfalls | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#Y4NELR#0)
+
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
