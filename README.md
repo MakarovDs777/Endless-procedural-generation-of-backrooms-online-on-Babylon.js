@@ -162,10 +162,6 @@
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks with a fixed number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#SSHIOZ#0)
 
-Бэкрумс уровнеь бесконечнео небо.
-
-[Backrooms in Babylon.js (Optional version - Endless sky) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#V2MVHL)
-
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
@@ -190,7 +186,9 @@
 
 [Backrooms in Babylon.js (Walls on grids of lines - The endless grid with diagonals is broken) | Babylon.js Playground](https://playground.babylonjs.com/#39Z59A#0)
 
-## Бэкрумс в Babylon.js, уровень 11 — Бесконечный город
+# Бэкрумс другие уровни
+
+## Уровень 11 — Бесконечный город
 
 Бесконечный город с заданным количество одних и тех де зданий где здания прилегают к друг к другу тык в притык.
 
@@ -199,6 +197,12 @@
 Бесконечный город на бесконечной плоской земле равномерно друг от друга здания.
 
 [Backrooms in Babylon.js level 11 - The Endless Sity (Version 1) | Babylon.js Playground](https://playground.babylonjs.com/#N96KG5#0)
+
+# Уровень - Бесконечное небо
+
+Бэкрумс уровень бесконечное небо.
+
+[Backrooms in Babylon.js (Optional version - Endless sky) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#V2MVHL)
 
 ## P.S.
 
