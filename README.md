@@ -180,6 +180,23 @@
 
 [Backrooms on isurfaces (version 0 - Themezzanine 2) | Babylon.js Playground](https://playground.babylonjs.com/#YCI2DG#0)
 
+## Бэкрумс + Гонки
+
+[![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
+
+[PhysicsV2 Car Simulation Example (Endless carpet) | Babylon.js Playground](https://playground.babylonjs.com/#LO1E72#0)
+
+[![Zapis-2024-12-14-08-34-07-590-1.gif](https://i.postimg.cc/DzPr0ZMb/Zapis-2024-12-14-08-34-07-590-1.gif)](https://postimg.cc/wt3yb6H6)
+
+[PhysicsV2 Car Simulation Example (Endless backrooms) | Babylon.js Playground](https://playground.babylonjs.com/#9ZO5H6#0)
+
+[![Zapis-2024-12-14-06-35-54-915.gif](https://i.postimg.cc/tJMPGr5C/Zapis-2024-12-14-06-35-54-915.gif)](https://postimg.cc/K3t4nDwd)
+
+[PhysicsV2 Car Simulation Example (The broken floor) | Babylon.js Playground](https://playground.babylonjs.com/#24VH6Q#0)
+
+[PhysicsV2 Car Simulation Example (Endless carpet 2) | Babylon.js Playground](https://playground.babylonjs.com/#JNPQCL#0)
+
+
 ## Бэкрумс в Babylon.js — стены по сеткам линий
 
 Бэкрумс но мы сделали сетки из линий по маскам и по этим сеткам делаем стены, и так получается бесконечный лабиринт, и заранее заданных масок стен.
