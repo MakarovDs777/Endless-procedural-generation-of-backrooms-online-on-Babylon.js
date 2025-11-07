@@ -238,6 +238,10 @@
 
 [Backrooms in Babylon.js (Optional version - Dancing thorns) | Babylon.js Playground](https://playground.babylonjs.com/#NH56YZ)
 
+Но мне не нужно что-бы ро7ни танцевали нужно что-бы они флуктуировали.
+
+[Backrooms in Babylon.js (Optional version - Endless fluctuating ocean of colored noise) | Babylon.js Playground](https://playground.babylonjs.com/#07SF66)
+
 ## P.S.
 
 Теперь это полноценное закулисное пространство! Возможно, кто-то придумает какие-то новые проекты, и проект будет развиваться.
