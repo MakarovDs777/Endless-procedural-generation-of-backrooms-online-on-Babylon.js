@@ -196,7 +196,6 @@
 
 [PhysicsV2 Car Simulation Example (Endless carpet 2) | Babylon.js Playground](https://playground.babylonjs.com/#JNPQCL#0)
 
-
 ## Бэкрумс в Babylon.js — стены по сеткам линий
 
 Бэкрумс но мы сделали сетки из линий по маскам и по этим сеткам делаем стены, и так получается бесконечный лабиринт, и заранее заданных масок стен.
