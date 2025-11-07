@@ -230,7 +230,7 @@
 
 [Endless procedurally generated micro noise | Babylon.js Playground](https://playground.babylonjs.com/#2AETZY#0)
 
-Бесконечный океан цвтеного глитча первая версия.
+Бесконечный океан цветного глитча первая версия.
 
 [Backrooms in Babylon.js (Optional version - An endless ocean of colored foam) | Babylon.js Playground](https://playground.babylonjs.com/#NYGRIF)
 
