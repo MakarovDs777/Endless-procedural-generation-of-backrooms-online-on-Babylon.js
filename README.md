@@ -202,7 +202,7 @@
 
 [Backrooms in Babylon.js (Walls on grids of lines - Endless procedural generation of walls based on masks of lines) | Babylon.js Playground](https://playground.babylonjs.com/#TFUHZL#0)
 
-После долгих размышлений на тему бэкрумса я понял что что-бы создать бэкрумс нужно просто взять сетку из линий, и в случайном процентном соотношении удалить случайные отрезки линий, и тогда по этим линиям провести стены, и легко получится лабиринт бэкрумс.
+После долгих размышлений на тему бэкрумса я понял что что-бы создать бэкрумс это больше про работу с сетками - нужно просто взять сетку из линий, и в случайном процентном соотношении удалить случайные отрезки линий, и тогда по этим линиям провести стены, и легко получится лабиринт бэкрумс.
 
 [Backrooms in Babylon.js (Walls on grids of lines - The endless grid with diagonals is broken) | Babylon.js Playground](https://playground.babylonjs.com/#39Z59A#0)
 
@@ -223,6 +223,12 @@
 Бэкрумс уровень бесконечное небо.
 
 [Backrooms in Babylon.js (Optional version - Endless sky) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#V2MVHL)
+
+## Уровень -9223372036854775808
+
+Хотел сделать бесконечный океан глюка типа как уровень монохром как его чаще называют [Backrooms Level -9223372036854775808](https://sketchfab.com/3d-models/backrooms-level-9223372036854775808-5e0a01f01cf44cffacb7ae56750ea099), и сделал бесконечно процедурно генерируемые микро шумы:
+
+[Endless procedurally generated micro noise | Babylon.js Playground](https://playground.babylonjs.com/#2AETZY#0)
 
 ## P.S.
 
