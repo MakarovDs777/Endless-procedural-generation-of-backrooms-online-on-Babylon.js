@@ -192,7 +192,7 @@
 
 [PhysicsV2 Car Simulation Example (The broken floor) | Babylon.js Playground](https://playground.babylonjs.com/#24VH6Q#0)
 
-[![Zapis-2024-12-14-06-35-54-915.gif](https://i.postimg.cc/tJMPGr5C/Zapis-2024-12-14-06-35-54-915.gif)](https://postimg.cc/K3t4nDwd)
+https://i.postimg.cc/tJMPGr5C/Zapis-2024-12-14-06-35-54-915.gif
 
 [PhysicsV2 Car Simulation Example (Endless carpet 2) | Babylon.js Playground](https://playground.babylonjs.com/#JNPQCL#0)
 
