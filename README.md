@@ -234,6 +234,10 @@
 
 [Backrooms in Babylon.js (Optional version - An endless ocean of colored foam) | Babylon.js Playground](https://playground.babylonjs.com/#NYGRIF)
 
+Теперь мне нужно заставить их колебаться
+
+[Backrooms in Babylon.js (Optional version - Dancing thorns) | Babylon.js Playground](https://playground.babylonjs.com/#NH56YZ)
+
 ## P.S.
 
 Теперь это полноценное закулисное пространство! Возможно, кто-то придумает какие-то новые проекты, и проект будет развиваться.
