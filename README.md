@@ -170,6 +170,10 @@
 
 [Backrooms in Babylon.js (Optional version - With OBJ loading and replacing all XYZ structures with the loaded model) | Babylon.js Playground](https://playground.babylonjs.com/#2JR60S)
 
+С загрузкой OBJ стурктур, и заменой структур XYZ на случайно загруженные структуры.
+
+[Backrooms in Babylon.js(Optional version - With OBJ loading, and XYZ structures replacing with random loaded structures) | Babylon.js Playground](https://playground.babylonjs.com/#K0G096)
+
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
