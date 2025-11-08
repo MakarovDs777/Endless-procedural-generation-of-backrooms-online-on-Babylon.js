@@ -170,7 +170,7 @@
 
 [Backrooms in Babylon.js (Optional version - With OBJ loading and replacing all XYZ structures with the loaded model) | Babylon.js Playground](https://playground.babylonjs.com/#2JR60S)
 
-С загрузкой OBJ стурктур, и заменой структур XYZ на случайно загруженные структуры.
+С загрузкой OBJ структур, и заменой случайных структур OBJ в XYZ на случайные загруженные структуры в случайных местах.
 
 [Backrooms in Babylon.js(Optional version - With OBJ loading, and XYZ structures replacing with random loaded structures) | Babylon.js Playground](https://playground.babylonjs.com/#K0G096)
 
