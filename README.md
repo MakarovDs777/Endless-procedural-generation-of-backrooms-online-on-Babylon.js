@@ -166,6 +166,10 @@
 
 [negative pitfalls | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#Y4NELR#0)
 
+С загрузкой OBJ и замена все структур по XYZ на загруженную модель, и даже если выбран второй файл OBJ через эту кнопку то дополнительно генерируется второй файл в случайных местах так же как bioms структуры. 
+
+[Backrooms in Babylon.js (Optional version - With OBJ loading and replacing all XYZ structures with the loaded model) | Babylon.js Playground](https://playground.babylonjs.com/#2JR60S)
+
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
