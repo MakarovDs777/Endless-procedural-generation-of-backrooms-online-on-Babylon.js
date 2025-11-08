@@ -166,7 +166,7 @@
 
 [negative pitfalls | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#Y4NELR#0)
 
-С загрузкой OBJ и замена все структур по XYZ на загруженную модель, и даже если выбран второй файл OBJ через эту кнопку то дополнительно генерируется второй файл в случайных местах так же как bioms структуры. 
+С загрузкой OBJ, и замена все структур по XYZ на загруженную модель, и даже если выбран второй файл OBJ через эту кнопку то все структуры заменяются везде на второй OBJ. 
 
 [Backrooms in Babylon.js (Optional version - With OBJ loading and replacing all XYZ structures with the loaded model) | Babylon.js Playground](https://playground.babylonjs.com/#2JR60S)
 
