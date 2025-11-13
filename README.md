@@ -60,7 +60,7 @@
 
 Теперь нужно задать сид для определенной заранее заданной случайно генериацией мира которая бы как в майнкрафте выдовала при вводе этого сида всегда выдовала бы одни, и те же биомы коридоров, и комнат.
 
-[Kanе Pixel’s Backrooms in Babylon.js (Version 4 - Seed of the world) | Babylon.js Playground](http://playground.babylonjs.com/#5R1MLK#0)
+[Kanе Pixel’s Backrooms in Babylon.js (Version 4 - Seed of the world) | Babylon.js Playground](http://playground.babylonjs.com/#5R1MLK#1)
 
 # Мобильная версия
 
