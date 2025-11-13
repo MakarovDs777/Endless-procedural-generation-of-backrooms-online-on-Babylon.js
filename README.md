@@ -202,6 +202,8 @@
 
 [![Zapis-2024-12-14-06-35-54-915.gif](https://i.postimg.cc/BbRzY71Q/Zapis-2024-12-14-06-35-54-915.gif)](https://postimg.cc/30C9WBBP)
 
+![Zapis-2024-12-14-06-35-54-915](https://github.com/user-attachments/assets/39db0c90-9866-4d52-a847-6d6961f194d1)
+
 [PhysicsV2 Car Simulation Example (Endless carpet 2) | Babylon.js Playground](https://playground.babylonjs.com/#JNPQCL#0)
 
 ## Бэкрумс в Babylon.js — стены по сеткам линий
