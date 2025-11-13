@@ -70,7 +70,9 @@
 
 [Backrooms on Babylon.js (Mobile version 3) | Babylon.js Playground](https://playground.babylonjs.com/#25EV8E)
 
-[Backrooms on Babylon.js (Mobile version 4) | Babylon.js Playground](https://playground.babylonjs.com/#KBLZJ1#0)
+Теперь нужно заменить стрелки на джойстики что-бы можно было вращать камеру игрока на 360 градуссов.
+
+[Backrooms on Babylon.js (Mobile version 4) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#KBLZJ1#1)
 
 ## Мобильная версия Кейна Пикселя
 
