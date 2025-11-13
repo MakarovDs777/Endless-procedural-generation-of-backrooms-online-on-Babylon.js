@@ -210,6 +210,8 @@
 
 [Backrooms in Babylon.js (Walls on grids of lines - Endless procedural generation of walls based on masks of lines) | Babylon.js Playground](https://playground.babylonjs.com/#TFUHZL#0)
 
+[Backrooms in Babylon.js(Walls on grids of lines-Endless procedural generation of walls based on masks of lines + carpet) | Babylon.js Playground](https://playground.babylonjs.com/#F0O9DA)
+
 После долгих размышлений на тему бэкрумса я понял что что-бы создать бэкрумс это больше про работу с сетками - нужно просто взять сетку из линий, и в случайном процентном соотношении удалить случайные отрезки линий, и тогда по этим линиям провести стены, и легко получится лабиринт бэкрумс.
 
 [Backrooms in Babylon.js (Walls on grids of lines - The endless grid with diagonals is broken) | Babylon.js Playground](https://playground.babylonjs.com/#39Z59A#0)
