@@ -1,4 +1,4 @@
-Темса созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45)
+Темса созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мои аккаунт удалили и теперь пришлось писать всё здесь.
 
 # Версия сайтовая
 
@@ -140,7 +140,7 @@
 
 [Backrooms in Babylon.js (Optional version - Endless trimming of ventilation pipes XZ version) | Babylon.js Playground.js](https://playground.babylonjs.com/#Z6EBKY#0)
 
-Бэкрумс с множеством измерений где в каждом ищмерении свой отдельный биом но есть поле ввода для переключения между измерениями.
+Бэкрумс с множеством измерений где в каждом измерении свой отдельный биом но есть поле ввода для переключения между измерениями.
 
 [Backrooms in Babylon.js (Optional version - Multiple dimensions with a switching field XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#0WCJ5W#0)
 
@@ -252,11 +252,11 @@
 
 [Backrooms in Babylon.js (Optional version - An endless ocean of colored foam) | Babylon.js Playground](https://playground.babylonjs.com/#NYGRIF)
 
-Теперь мне нужно заставить их колебаться
+Теперь мне нужно заставить их колебаться.
 
 [Backrooms in Babylon.js (Optional version - Dancing thorns) | Babylon.js Playground](https://playground.babylonjs.com/#NH56YZ)
 
-Но мне не нужно что-бы ро7ни танцевали нужно что-бы они флуктуировали.
+Но мне не нужно что-бы они танцевали нужно что-бы они флуктуировали.
 
 [Backrooms in Babylon.js (Optional version - Endless fluctuating ocean of colored noise) | Babylon.js Playground](https://playground.babylonjs.com/#07SF66)
 
