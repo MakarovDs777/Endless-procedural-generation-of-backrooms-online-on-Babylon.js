@@ -76,9 +76,11 @@
 
 ## Мобильная версия Кейна Пикселя
 
+Но просматриваю свою версию бэкрумс ан своеём смартфоне я обнаружил что я не могу перемещаться на нём теперь давайте сделаем стрелки что-бы можно было перемещаться на мобильнйо версии.
+
 [Kane Pixel’s Backrooms on Babylon.js (Mobile version 2) | Babylon.js Playground](https://playground.babylonjs.com/#1GXGH8)
 
-Теперь нужно убрать дебльные стрекли и добавить джойстик что-бы можно было перемещаться на 360 градусоов.
+Теперь нужно убрать дебильные стрелки и добавить джойстик что-бы можно было перемещаться на 360 градусоов.
 
 [Kane Pixel’s Backrooms on Babylon.js (Mobile version 3) | Babylon.js Playground](https://playground.babylonjs.com/#HLQRG6#1)
 
