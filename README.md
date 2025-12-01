@@ -70,7 +70,7 @@
 
 [Backrooms on Babylon.js (Mobile version 3) | Babylon.js Playground](https://playground.babylonjs.com/#25EV8E)
 
-Теперь нужно заменить стрелки на джойстики что-бы можно было вращать камеру игрока на 360 градуссов.
+Теперь нужно заменить стрелки на джойстики что-бы можно было вращать камеру игрока на 360 градусов.
 
 [Backrooms on Babylon.js (Mobile version 4) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#KBLZJ1#1)
 
@@ -80,7 +80,7 @@
 
 [Kane Pixel’s Backrooms on Babylon.js (Mobile version 2) | Babylon.js Playground](https://playground.babylonjs.com/#1GXGH8)
 
-Теперь нужно убрать дебильные стрелки и добавить джойстик что-бы можно было перемещаться на 360 градусоов.
+Теперь нужно убрать дебильные стрелки и добавить джойстик что-бы можно было перемещаться на 360 градусов.
 
 [Kane Pixel’s Backrooms on Babylon.js (Mobile version 3) | Babylon.js Playground](https://playground.babylonjs.com/#HLQRG6#1)
 
