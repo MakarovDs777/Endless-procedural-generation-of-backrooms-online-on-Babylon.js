@@ -264,13 +264,15 @@
 
 ## Уровень - Матрица
 
-Кто нибудь помнит фильм фильм Матриц: Начало? Так вот там был в начале такой цифровой дождь из разных символов, и я решил сделать так же только без анимации.
-
 []()
 
-Теперь нужно сделать Русскую версию.
+Кто нибудь помнит фильм фильм Матриц: Начало? Так вот там был в начале такой цифровой дождь из разных символов Русского алфавита.
 
 [Backrooms in Babylon.js (Optional version - The Matrix Russian version) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#9GK0IB)
+
+Та же матрица, и я решил сделать так же только с анимацией.
+
+[Backrooms in Babylon.js (Optional version - The Matrix Russian version with animation) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#QSNV5N)
 
 
 ## P.S.
