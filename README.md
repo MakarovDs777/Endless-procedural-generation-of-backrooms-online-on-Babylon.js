@@ -262,6 +262,17 @@
 
 [Backrooms in Babylon.js (Optional version - Endless fluctuating ocean of colored noise) | Babylon.js Playground](https://playground.babylonjs.com/#07SF66)
 
+## Уровень - Матрица
+
+Кто нибудь помнит фильм фильм Матриц: Начало? Так вот там был в начале такой цифровой дождь из разных символов, и я решил сделать так же только без анимации.
+
+[]()
+
+Теперь нужно сделать Русскую версию.
+
+[Backrooms in Babylon.js (Optional version - The Matrix Russian version) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#9GK0IB)
+
+
 ## P.S.
 
 Теперь это полноценное закулисное пространство! Возможно, кто-то придумает какие-то новые проекты, и проект будет развиваться.
