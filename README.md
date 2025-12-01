@@ -266,7 +266,7 @@
 
 Кто нибудь помнит фильм фильм 'Матрица: Начало'? Так вот там был в начале такой цифровой дождь из символов я сделал так же! 
 
-[]()
+[Backrooms in Babylon.js (Optional version - The Matrix English version + Numbers) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#F1G34G)
 
 Теперь нужно сделать матрицу из разных символов Русского алфавита.
 
