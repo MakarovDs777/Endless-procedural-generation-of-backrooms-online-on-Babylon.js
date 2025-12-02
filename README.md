@@ -184,7 +184,6 @@
 
 [Backrooms in Babylon.js (Optional version - Endless library Russian version) | Babylon.js Playground](https://playground.babylonjs.com/#1V702E)
 
-
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
@@ -290,6 +289,10 @@
 Та же матрица, и я решил сделать так же только с анимацией.
 
 [Backrooms in Babylon.js (Optional version - The Matrix Russian version with animation) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#QSNV5N)
+
+Бесконечная библиотека где бесконечно процедурно генерируются случайные буквы по XZ координатам включая табло координат полей ввода что-бы перемщаться по XYZ.
+
+[Backrooms in Babylon.js (Optional version - The Matrix Endless Library Russian version + Coordinate board) | Babylon.js Playground](https://playground.babylonjs.com/#14XFIB)
 
 ## P.S.
 
