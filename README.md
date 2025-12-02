@@ -198,7 +198,7 @@
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
 
-[PhysicsV2 Car Simulation Example (Endless carpet) | Babylon.js Playground](https://playground.babylonjs.com/#LO1E72#0)
+[PhysicsV2 Car Simulation Example (Endless carpet) | Babylon.js Playground](https://playground.babylonjs.com/#LO1E72#2)
 
 [![Zapis-2024-12-14-08-34-07-590-1.gif](https://i.postimg.cc/DzPr0ZMb/Zapis-2024-12-14-08-34-07-590-1.gif)](https://postimg.cc/wt3yb6H6)
 
