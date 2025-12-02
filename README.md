@@ -242,13 +242,13 @@
 
 ## Уровень - Бесконечное небо
 
-Бэкрумс уровень бесконечное небо.
+Бэкрумс уровень бесконечное небо с бесконечно процедурно генерирумымм молниями.
 
-[Backrooms in Babylon.js (Optional version - Endless sky) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#V2MVHL)
+[Backrooms in Babylon.js (Optional version - Endless sky with lightnings) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#V2MVHL)
 
 Теперь нужно убрать молнии что-бы просто оставить процедурно генерируемый бесконечный туман.
 
-[Backrooms in Babylon.js (Optional version - Endless sky without lightnings) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#G14EV7)
+[Backrooms in Babylon.js (Optional version - Endless sky) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#G14EV7)
 
 Теперь сделаем бесконечно процедурно генерируемый туман с бесконечно процедруно генерируемым снегом.
 
