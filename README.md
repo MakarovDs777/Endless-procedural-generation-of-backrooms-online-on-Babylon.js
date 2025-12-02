@@ -250,6 +250,10 @@
 
 [Backrooms in Babylon.js (Optional version - Endless sky without lightnings) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#G14EV7)
 
+Теперь сделаем бесконечно процедурно генерируемый туман с бесконечно процедруно генерируемым снегом.
+
+[Backrooms in Babylon.js (Optional version - Endless sky with fog and snow) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#XSO03M)
+
 ## Уровень -9223372036854775808
 
 Хотел сделать бесконечный океан глюка типа как уровень монохром как его чаще называют [Backrooms Level -9223372036854775808](https://sketchfab.com/3d-models/backrooms-level-9223372036854775808-5e0a01f01cf44cffacb7ae56750ea099), и сделал бесконечно процедурно генерируемые микро шумы:
