@@ -188,6 +188,12 @@
 
 [Backrooms in Babylon.js (Optional version - An infinitely generated wall) | Babylon.js Playground](https://playground.babylonjs.com/#IP4D7B)
 
+## Процедурные генерации в бэкрумс онлайн версии
+
+Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя.
+
+[Procedural generation of the backrooms (The most accurate version) | Babylon.js Playground](https://playground.babylonjs.com/#774AAM)
+
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
