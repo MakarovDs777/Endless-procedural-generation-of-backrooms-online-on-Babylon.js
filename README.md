@@ -14,11 +14,11 @@
 
 [Backrooms in Babylon.js (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#BM5M6A)
 
-В первой версии я добавил случайно сгенерированные и случайно поворачиваемые стены к этому процедурно сгенерированному ковру.
+В первой версии я добавил случайно сгенерированные и случайно поворенутые стены на этом процедурно сгенерированном ковре.
 
 [Backrooms in Babylon.js (Version 1) | Babylon.js Playground](https://playground.babylonjs.com/#VBRJ0Y)
 
-Во второй версии я добавил бесконечный процедурно сгенерированный потолок.
+Во второй версии я добавил бесконечный процедурно генерируемые потолок.
 
 [Backrooms in Babylon.js (Version 2) | Babylon.js Playground](https://playground.babylonjs.com/#NGAD7L)
 
@@ -183,6 +183,10 @@
 Бесконечная библиотека где бесконечно процедурно генерируются случайные буквы по XZ координатам.
 
 [Backrooms in Babylon.js (Optional version - Endless library Russian version) | Babylon.js Playground](https://playground.babylonjs.com/#1V702E)
+
+Бесконечный ковёр, простирающийся от -Y до +Y
+
+[Backrooms in Babylon.js (Optional version - An infinitely generated wall) | Babylon.js Playground](https://playground.babylonjs.com/#IP4D7B)
 
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
