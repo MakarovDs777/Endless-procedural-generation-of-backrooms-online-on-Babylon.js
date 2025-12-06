@@ -208,6 +208,10 @@
 
 [Kane Pixel’s Backrooms in Babylon.js (Optional version - Cubic multi-storey biome generation) | Babylon.js Playground](https://playground.babylonjs.com/#945FVB#0)
 
+Бесконечно генерируемые многоэтажные ковры.
+
+[Backrooms in Babylon.js (Optional version - Infinitely generated infinitely multi-storey carpets) | Babylon.js Playground](https://playground.babylonjs.com/#1VBEPK)
+
 ## Бэкрумс на изурфейсах
 
 [Backrooms on isurfaces (version 0 - Themezzanine 2) | Babylon.js Playground](https://playground.babylonjs.com/#YCI2DG#3)
