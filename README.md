@@ -14,7 +14,7 @@
 
 [Backrooms in Babylon.js (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#BM5M6A)
 
-В первой версии я добавил случайно сгенерированные и случайно поворенутые стены на этом процедурно сгенерированном ковре.
+В первой версии я добавил случайно сгенерированные и случайно повернутые стены на этом процедурно сгенерированном ковре.
 
 [Backrooms in Babylon.js (Version 1) | Babylon.js Playground](https://playground.babylonjs.com/#VBRJ0Y)
 
