@@ -184,9 +184,13 @@
 
 [Backrooms in Babylon.js (Optional version - Endless library Russian version) | Babylon.js Playground](https://playground.babylonjs.com/#1V702E)
 
-Бесконечный ковёр, простирающийся от -Y до +Y
+Бесконечный ковёр простирающийся от -Y до +Y.
 
 [Backrooms in Babylon.js (Optional version - An infinitely generated wall) | Babylon.js Playground](https://playground.babylonjs.com/#IP4D7B)
+
+Бесконечное количество генерируемых процедурно ковров простирающийся снизу вверх от -Y до +Y равномерно расположеных друг от друга по XZ.
+
+[Backrooms in Babylon.js (Optional version - Infinitely generated from each other endless high-rise walls) | Babylon.js Playground](https://playground.babylonjs.com/#5HU3BZ)
 
 ## Процедурные генерации в бэкрумс онлайн версии
 
