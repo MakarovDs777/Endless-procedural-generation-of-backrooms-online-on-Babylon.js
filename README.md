@@ -226,7 +226,9 @@
 
 [PhysicsV2 Car Simulation Example (The broken floor) | Babylon.js Playground](https://playground.babylonjs.com/#24VH6Q#1)
 
-[PhysicsV2 Car Simulation Example (Endless carpet 2) | Babylon.js Playground](https://playground.babylonjs.com/#JNPQCL#0)
+![Запись_2025_12_06_19_45_02_309](https://github.com/user-attachments/assets/64515dd7-dea7-4c02-bb1c-3c94ca284709)
+
+[PhysicsV2 Car Simulation Example (Endless carpet 2) | Babylon.js Playground](https://playground.babylonjs.com/#JNPQCL#1)
 
 ## Бэкрумс в Babylon.js — стены по сеткам линий
 
