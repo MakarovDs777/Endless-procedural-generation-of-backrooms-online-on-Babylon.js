@@ -298,6 +298,8 @@
 
 ## Уровень - Бесконечное море цветного шума
 
+Но вот теперь осталось лишь сделать бесконечную процедурно генерируемую плсокость цветного шума, и это уже похоже на уровень монохрома.
+
 [Backrooms in Babylon.js (Optional version - Endless colored noises) | Babylon.js Playground](https://playground.babylonjs.com/#3Z112L)
 
 ## Уровень - Матрица
