@@ -196,9 +196,13 @@
 
 [Backrooms in Babylon.js (Optional version - Infinitely generated infinitely multi-storey carpets) | Babylon.js Playground](https://playground.babylonjs.com/#1VBEPK)
 
-Предстььавьте что бэкрумс это бесконечный куб заполненый замкнутыми кубами! Вот с чего надо было начать...
+Представьте что бэкрумс это бесконечный куб заполненый замкнутыми кубами! Вот с чего надо было начать...
 
 [Backrooms in Babylon.js (Optional version - Infinite dense space of cubes XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#RM8AZ7)
+
+Теперь нужно вырезать в этом бесконченом бетоном кубе коридоры, и комнаты пустот что-бы сделать бэкрумс но поулчилось какое-то кубические пещеры.
+
+[Backrooms in Babylon.js (Optional version - Endless Cubic Caves XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#P9WI82)
 
 ## Процедурные генерации в бэкрумс онлайн версии
 
