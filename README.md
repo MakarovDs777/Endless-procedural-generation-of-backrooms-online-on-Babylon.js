@@ -192,6 +192,14 @@
 
 [Backrooms in Babylon.js (Optional version - Infinitely generated from each other endless high-rise walls) | Babylon.js Playground](https://playground.babylonjs.com/#5HU3BZ)
 
+Бесконечно генерируемые многоэтажные ковры.
+
+[Backrooms in Babylon.js (Optional version - Infinitely generated infinitely multi-storey carpets) | Babylon.js Playground](https://playground.babylonjs.com/#1VBEPK)
+
+Предстььавьте что бэкрумс это бесконечный куб заполненый замкнутыми кубами! Вот с чего надо было начать...
+
+[Backrooms in Babylon.js (Optional version - Infinite dense space of cubes XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#RM8AZ7)
+
 ## Процедурные генерации в бэкрумс онлайн версии
 
 Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя.
@@ -207,10 +215,6 @@
 Версия бэкрумс где есть один биом который между всеми биомами, и в нём кубы биомов разного размера.
 
 [Kane Pixel’s Backrooms in Babylon.js (Optional version - Cubic multi-storey biome generation) | Babylon.js Playground](https://playground.babylonjs.com/#945FVB#0)
-
-Бесконечно генерируемые многоэтажные ковры.
-
-[Backrooms in Babylon.js (Optional version - Infinitely generated infinitely multi-storey carpets) | Babylon.js Playground](https://playground.babylonjs.com/#1VBEPK)
 
 ## Бэкрумс на изурфейсах
 
