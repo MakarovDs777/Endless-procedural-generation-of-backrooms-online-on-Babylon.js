@@ -200,7 +200,7 @@
 
 [Backrooms in Babylon.js (Optional version - Infinite dense space of cubes XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#RM8AZ7)
 
-Теперь нужно вырезать в этом бесконченом бетоном кубе коридоры, и комнаты пустот что-бы сделать бэкрумс но поулчилось какое-то кубические пещеры.
+Теперь нужно вырезать в этом бесконченом бетоном кубе коридоры, и комнаты пустот что-бы сделать бэкрумс но получилось какое-то кубические пещеры.
 
 [Backrooms in Babylon.js (Optional version - Endless Cubic Caves XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#P9WI82)
 
