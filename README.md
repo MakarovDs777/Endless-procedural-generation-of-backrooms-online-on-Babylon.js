@@ -296,6 +296,10 @@
 
 [Backrooms in Babylon.js (Optional version - Endless fluctuating ocean of colored noise) | Babylon.js Playground](https://playground.babylonjs.com/#07SF66)
 
+## Уровень - Бесконечное море цветного шума
+
+[Backrooms in Babylon.js (Optional version - Endless colored noises) | Babylon.js Playground](https://playground.babylonjs.com/#3Z112L)
+
 ## Уровень - Матрица
 
 Кто нибудь помнит фильм фильм 'Матрица: Начало'? Так вот там был в начале такой цифровой дождь из символов я сделал так же! 
