@@ -204,6 +204,12 @@
 
 [Backrooms in Babylon.js (Optional version - Endless Cubic Caves XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#P9WI82)
 
+После долгих мучений, и страданий с бэкрумс я все таки решил вернуться к своей изначальной задумке которую мне не удалось реализовать изначально но пытаясь сново пойти старыми путями случайно создал уровень Black Zone где на половину сломанные помещения, и комнаты висящие в пустоте.
+
+[Backrooms in Babylon.js (Optional version - Black zone) | Babylon.js Playground](https://playground.babylonjs.com/#OB1SG3)
+
+
+
 ## Процедурные генерации в бэкрумс онлайн версии
 
 Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя.
