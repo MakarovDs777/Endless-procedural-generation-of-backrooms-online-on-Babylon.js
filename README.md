@@ -208,7 +208,9 @@
 
 [Backrooms in Babylon.js (Optional version - Black zone) | Babylon.js Playground](https://playground.babylonjs.com/#OB1SG3)
 
+Версия от моего давнего приятеля CodingCrusader [оригинал комментария](https://forum.babylonjs.com/t/coding-crusaders/44765/382) но мой аккаунт к сожалению был удален модератором... Вообще его версия это просто бесконечные кубиклы.
 
+[Backrooms in Babylon.js (Optional version - Endless Cubicles CodingCrusader) | Babylon.js Playground](https://playground.babylonjs.com/#IQ407T)
 
 ## Процедурные генерации в бэкрумс онлайн версии
 
