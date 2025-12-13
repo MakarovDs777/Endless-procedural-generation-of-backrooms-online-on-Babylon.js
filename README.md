@@ -278,7 +278,7 @@
 
 Теперь нужно сделать генерацию зданий по маскам.
 
-[Backrooms in Babylon.js level 11 - The Endless Sity (Version 2) | Babylon.js Playground](https://playground.babylonjs.com/#2NVEV2)
+[Backrooms in Babylon.js level 11 - The Endless Sity (Version 2) | Babylon.js Playground](https://playground.babylonjs.com/#2NVEV2#1)
 
 ## Уровень - Бесконечное небо
 
