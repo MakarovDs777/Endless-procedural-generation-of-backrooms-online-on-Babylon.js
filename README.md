@@ -336,9 +336,11 @@
 
 [Backrooms in Babylon.js (Optional version - The Matrix Russian version with animation) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#QSNV5N)
 
-Бесконечная библиотека где бесконечно процедурно генерируются случайные буквы по XZ координатам включая табло координат полей ввода что-бы перемщаться по XYZ.
+Бесконечная библиотека где бесконечно процедурно генерируются случайные буквы по XZ координатам включая табло координат полей ввода что-бы перемещаться по XYZ.
 
 [Backrooms in Babylon.js (Optional version - The Matrix Endless Library Russian version + Coordinate board) | Babylon.js Playground](https://playground.babylonjs.com/#14XFIB)
+
+В этом дожде из матрице есть однозначно какой-то глубины смысл только нужно понять какой... Ведь как известно там где высоко там снизу вселенная лишь многомериться меняя лишь эталон, и меру.
 
 ## P.S.
 
