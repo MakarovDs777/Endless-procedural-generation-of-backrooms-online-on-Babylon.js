@@ -214,7 +214,7 @@
 
 Бесконечная процедурная генерация GLB структур по XZ.
 
-[Backrooms in Babylon.js (Optional version - Endless procedural generation of GLB structures by XZ) | Babylon.js Playground](https://playground.babylonjs.com/#3XBMAI)
+[Backrooms in Babylon.js (Optional version - Endless procedural generation of GLB structures by XZ) | Babylon.js Playground](https://playground.babylonjs.com/#3XBMAI#1)
 
 ## Процедурные генерации в бэкрумс онлайн версии
 
