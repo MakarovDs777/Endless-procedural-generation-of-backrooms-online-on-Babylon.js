@@ -152,7 +152,7 @@
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks pre-alpha version) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#P4J1CZ#0)
 
-Бэкрумс с бесконечной поверхзностью вглубь гд по бесконченой процедурной генерации по XZ, и с исключительной бесконечной генерацией по -Y а в вверх ничего не генерируется.
+Бэкрумс с бесконечной поверхностью вглубь где по бесконченой процедурной генерации по XZ, и с исключительной бесконечной генерацией по -Y а в вверх ничего не генерируется.
 
 [Backrooms in Babylon.js (Optional version - Multi-storey multibiome generation, but only at -Y height in depth) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#V0MU79#0)
 
@@ -168,7 +168,7 @@
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks with a fixed number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#SSHIOZ#0)
 
-Отрицательный питфалс по сути кубы с расположеными между ними узкими ямами 
+Отрицательный питфалс по сути кубы с расположеными между ними узкими ямами.
 
 [negative pitfalls | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#Y4NELR#0)
 
@@ -208,7 +208,7 @@
 
 [Backrooms in Babylon.js (Optional version - Black zone) | Babylon.js Playground](https://playground.babylonjs.com/#OB1SG3)
 
-Версия от моего давнего приятеля CodingCrusader [оригинал комментария](https://forum.babylonjs.com/t/coding-crusaders/44765/382) но мой аккаунт к сожалению был удален модератором... Вообще его версия это просто бесконечные кубиклы.
+Версия от моего давнего приятеля CodingCrusader [оригинал комментария](https://forum.babylonjs.com/t/coding-crusaders/44765/382) но мой аккаунт к сожалению был удален модератором... Вообще его версия это просто бесконечные кубиклы но он не залил её на плошадку бабилона так что я переписал его код без html.
 
 [Backrooms in Babylon.js (Optional version - Endless Cubicles CodingCrusader) | Babylon.js Playground](https://playground.babylonjs.com/#IQ407T)
 
