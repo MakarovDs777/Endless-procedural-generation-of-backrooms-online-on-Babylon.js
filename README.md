@@ -268,6 +268,10 @@
 
 [Backrooms in Babylon.js (Walls on grids of lines - The endless grid with diagonals is broken) | Babylon.js Playground](https://playground.babylonjs.com/#39Z59A#0)
 
+И как продолжение предыдущего диалога была мысль сдеалать четрые линии ветки с асимптотой в определённой диапазон отклонения. И по линиям раставить тчоки разного цвета которые как маркер помечают места других линий, и по ним сделать OBJ разных форматах, и так получается полноценный бэкрумс!
+
+[Backrooms in Babylon.js(Walls on grids of lines-The endless grid with diagonals is broken+4 branch lines+OBJ on lines) | Babylon.js Playground](https://playground.babylonjs.com/#PBWP6O)
+
 # Бэкрумс другие уровни
 
 ## Уровень 11 — Бесконечный город
