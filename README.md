@@ -270,7 +270,7 @@
 
 И как продолжение предыдущего диалога была мысль сделать четыре линии ветки с асимптотой в определённой диапазон отклонения, и по линиям раставить точки разного цвета которые как маркер помечают места других линий, и по ним сделать OBJ разных форматов, и так получается полноценный бэкрумс!
 
-[Backrooms in Babylon.js(Walls on grids of lines-The endless grid with diagonals is broken+4 branch lines+OBJ on lines) | Babylon.js Playground](https://playground.babylonjs.com/#PBWP6O#2)
+[Backrooms in Babylon.js(Walls on grids of lines-The endless grid with diagonals is broken+4 branch lines+OBJ on lines) | Babylon.js Playground](https://playground.babylonjs.com/#PBWP6O#3)
 
 # Бэкрумс другие уровни
 
