@@ -86,6 +86,10 @@
 
 [Kane Pixel’s Backrooms on Babylon.js (Mobile version 3) | Babylon.js Playground](https://playground.babylonjs.com/#HLQRG6#1)
 
+Теперь нужн осделать так что джойстик мог перемещать камеру на 360 градуссов, и перемещатьься туда куда направленна камера.
+
+[Kane Pixel’s Backrooms on Babylon.js (Mobile version 4) | Babylon.js Playground](https://playground.babylonjs.com/#NNNQS4#1)
+
 ## Опциональные версии бэкрумс
 
 Бесконечный процедуирно генерируемый пол, и на нём столбы разного размера равномерно друг от друга расположенные, и так до бесконечности.
