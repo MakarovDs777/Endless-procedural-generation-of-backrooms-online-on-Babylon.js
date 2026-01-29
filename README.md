@@ -164,7 +164,7 @@
 
 [Backrooms in Babylon.js(Optional version-Generating structures along an infinite procedurally generated broken XYZ line) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#OHNQ3B#0)
 
-Бэкрумс с бесконченой процедурной генерации по XZ, и с фиксированной по Y где есть определенное количество этажей скаюжем 3.
+Бэкрумс с бесконченой процедурной генерации по XZ, и с фиксированной по Y где есть определенное количество этажей скажем 3.
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks with a fixed number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#SSHIOZ#0)
 
@@ -268,9 +268,9 @@
 
 [Backrooms in Babylon.js (Walls on grids of lines - The endless grid with diagonals is broken) | Babylon.js Playground](https://playground.babylonjs.com/#39Z59A#0)
 
-И как продолжение предыдущего диалога была мысль сдеалать четрые линии ветки с асимптотой в определённой диапазон отклонения. И по линиям раставить тчоки разного цвета которые как маркер помечают места других линий, и по ним сделать OBJ разных форматах, и так получается полноценный бэкрумс!
+И как продолжение предыдущего диалога была мысль сделать четыре линии ветки с асимптотой в определённой диапазон отклонения, и по линиям раставить точки разного цвета которые как маркер помечают места других линий, и по ним сделать OBJ разных форматов, и так получается полноценный бэкрумс!
 
-[Backrooms in Babylon.js(Walls on grids of lines-The endless grid with diagonals is broken+4 branch lines+OBJ on lines) | Babylon.js Playground](https://playground.babylonjs.com/#PBWP6O)
+[Backrooms in Babylon.js(Walls on grids of lines-The endless grid with diagonals is broken+4 branch lines+OBJ on lines) | Babylon.js Playground](https://playground.babylonjs.com/#PBWP6O#1)
 
 # Бэкрумс другие уровни
 
