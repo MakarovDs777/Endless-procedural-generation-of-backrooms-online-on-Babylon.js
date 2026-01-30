@@ -172,6 +172,10 @@
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks with a fixed number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#SSHIOZ#0)
 
+Бэкрумс с бесконченой процедурной генерации по XZ, и с случайной от до бесконечности по Y этажей.
+
+[Backrooms in Babylon.js (Optional version - Generating biomes by masks with a endless number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/#W5IHYX)
+
 Отрицательный питфалс по сути кубы с расположеными между ними узкими ямами.
 
 [negative pitfalls | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#Y4NELR#0)
