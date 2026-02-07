@@ -52,7 +52,7 @@
 
 [Kane Pixel’s Backrooms in Babylon.js (Version 1 - multybiom generation) | Babylon.js Playground](https://playground.babylonjs.com/#RSODNR)
 
-Но чего-то все еще не хватает, потому что подсобные помещения Kane Pixel представляют собой бесконечный многоуровневый пирог из случайно сгенерированных процедурно взаимосвязанных пространств.
+Но чего-то все ещё не хватает, потому что подсобные помещения Kane Pixel представляют собой бесконечный многоуровневый пирог из случайно сгенерированных процедурно взаимосвязанных пространств.
 
 [Kane Pixel’s Backrooms in Babylon.js (Version 2 - Multistory multibiome generation) | Babylon.js Playground](https://playground.babylonjs.com/#AWLGMD)
 
@@ -168,11 +168,11 @@
 
 [Backrooms in Babylon.js(Optional version-Generating structures along an infinite procedurally generated broken XYZ line) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#OHNQ3B#0)
 
-Бэкрумс с бесконченой процедурной генерации по XZ, и с фиксированной по Y где есть определенное количество этажей скажем 3.
+Бэкрумс с бесконечной процедурной генерации по XZ, и с фиксированной по Y где есть определенное количество этажей скажем 3.
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks with a fixed number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#SSHIOZ#0)
 
-Бэкрумс с бесконченой процедурной генерации по XZ, и с случайной от до бесконечности по Y этажей.
+Бэкрумс с бесконечной процедурной генерации по XZ, и с случайной от до бесконечности по Y этажей.
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks with a endless number of floors in height) | Babylon.js Playground](https://playground.babylonjs.com/#W5IHYX)
 
@@ -227,6 +227,10 @@
 Представим бэкрумс но есть только потолок, пол. 
 
 [Backrooms in Babylon.js (Optional version - no walls just endless carpet and endless ceiling) | Babylon.js Playground](https://playground.babylonjs.com/#N10Q92)
+
+Представим бэкрумс но есть бесконечные многоэтажные помещения без стен из бесконечных потолков, и бесконечных полов.
+
+[Backrooms in Babylon.js (Optional version - endless generated endless multi-storey carpets and ceilings) | Babylon.js Playground](https://playground.babylonjs.com/#8K5E4U)
 
 ## Процедурные генерации в бэкрумс онлайн версии
 
