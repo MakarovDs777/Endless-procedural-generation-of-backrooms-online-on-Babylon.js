@@ -108,7 +108,7 @@
 
 [Backrooms in Babylon.js(Optional version-The carpet is endless, but the texture can be changed through the input field) | Babylon.js Playground](https://playground.babylonjs.com/#AHP53D#0)
 
-Представьте бэкрумс в котором есть только потолок, и пол а стен нету! Это именно то.
+Представьте бэкрумс в котором есть только потолок, пол, и люминсцентные лампы а стен нету! Это именно то.
 
 [Backrooms in Babylon.js (Optional version - no walls) | Babylon.js Playground](https://playground.babylonjs.com/#T7SDF5#0)
 
@@ -223,6 +223,10 @@
 Бесконечная процедурная генерация GLB структур по XZ.
 
 [Backrooms in Babylon.js (Optional version - Endless procedural generation of GLB structures by XZ) | Babylon.js Playground](https://playground.babylonjs.com/#3XBMAI#2)
+
+Представим бэкрумс но есть только потолок, пол. 
+
+[Backrooms in Babylon.js (Optional version - no walls just endless carpet and endless ceiling) | Babylon.js Playground](https://playground.babylonjs.com/#N10Q92)
 
 ## Процедурные генерации в бэкрумс онлайн версии
 
