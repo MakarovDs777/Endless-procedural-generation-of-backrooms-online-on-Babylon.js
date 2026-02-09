@@ -266,6 +266,10 @@
 
 [Backrooms on isurfaces (version 2 - Multi-storey-hell in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#7VUKJ2)
 
+Ну вот в одном чанке сделаем этот код [Multi storey poolroms just coridors](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-just-coridors.py) 
+
+[Backrooms on isurfaces (version 3 - Multi storey poolrooms just corridors in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#2BW5WL)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
