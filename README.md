@@ -258,9 +258,13 @@
 
 [Backrooms on isurfaces (version 0 - Themezzanine 2) | Babylon.js Playground](https://playground.babylonjs.com/#YCI2DG#4) 
 
-Теперь хочу переписать [Multi-storey-curved-corridor.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-curved-corridor.py) на Babylon.js и вот что получилос:
+Теперь хочу переписать [Multi-storey-curved-corridor.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-curved-corridor.py) на Babylon.js и вот что получилось:
 
 [Backrooms on isurfaces (version 1 - Wormholes) | Babylon.js Playground](https://playground.babylonjs.com/#3GSN00)
+
+Теперь нужно сделать в одном чанке этот код [multi storey hell.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-hell.py).
+
+[Backrooms on isurfaces (version 2 - Multi-storey-hell in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#7VUKJ2)
 
 ## Бэкрумс + Гонки
 
