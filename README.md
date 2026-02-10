@@ -270,6 +270,10 @@
 
 [Backrooms on isurfaces (version 3 - Multi storey poolrooms just corridors in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#2BW5WL)
 
+Изурфейсная wireframe сетка версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии...
+
+[Backrooms on isurfaces (version 4 - Multi-storey-poolrooms in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#D85Z0S)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
