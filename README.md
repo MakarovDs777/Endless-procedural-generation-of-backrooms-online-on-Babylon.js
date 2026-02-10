@@ -274,6 +274,10 @@
 
 [Backrooms on isurfaces (version 4 - Multi-storey-poolrooms in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#D85Z0S)
 
+Тоже что и предыдущая только с кнопкой скачать OBJ.
+
+[Backrooms on isurfaces (version 5 - Multi-storey-poolrooms in One chunk + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#W1J8E9)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
