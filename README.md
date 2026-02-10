@@ -282,6 +282,10 @@
 
 [Backrooms on isurfaces (version 6 - Multi-storey poolrooms fixed height one connection + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#2Y8A5H)
 
+Переписал с python код [Multi-storey poolrooms smooth.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms-smooth.py) на Babylon.js.
+
+[Backrooms on isurfaces (version 7 - Multi-storey poolrooms smooth + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#94Z2PF)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
