@@ -278,6 +278,10 @@
 
 [Backrooms on isurfaces (version 5 - Multi-storey-poolrooms in One chunk + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#W1J8E9)
 
+Теперь нужно сделать уровни с горизонтально положенными комнами и соиденния ввиде вертикальных стволов между ними как в этом коде [Multi-storey-poolrooms-fixed-height-one-connection.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-fixed-height-one-connection.py) 
+
+[Backrooms on isurfaces (version 6 - Multi-storey poolrooms fixed height one connection + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#2Y8A5H)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
