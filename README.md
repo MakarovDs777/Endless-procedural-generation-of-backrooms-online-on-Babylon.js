@@ -304,6 +304,10 @@
 
 [Backrooms on isurfaces (version 12 -The angular corridors of the backrooms are hollow in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#GSB3M7)
 
+Перевод с версии [Sharp-angled hollow corridors backrooms with rooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/Sharp-angled%20hollow%20corridors%20backrooms%20with%20rooms.py)
+
+[Backrooms on isurfaces (version 13 - Sharp-angled hollow corridors backrooms with rooms on One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#4C9DP7)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
