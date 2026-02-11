@@ -232,13 +232,13 @@
 
 [Backrooms in Babylon.js (Optional version - endless generated endless multi-storey carpets and ceilings) | Babylon.js Playground](https://playground.babylonjs.com/#8K5E4U)
 
-## Процедурные генерации в бэкрумс онлайн версии
+## Голографические процедурные генерации в бэкрумс онлайн версии
 
-Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя.
+/* Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя.
 
-[Procedural generation of the backrooms (The most accurate version) | Babylon.js Playground](https://playground.babylonjs.com/#774AAM)
+[Procedural generation of the backrooms (The most accurate version) | Babylon.js Playground](https://playground.babylonjs.com/#774AAM) */
 
-Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии...
+Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии... Типа кто помнит что когда вращаешь камеру с одной стороны есть с другой нету это типа такое многомерное пространство получается или типа случайно как-то поялвяется при вращаение случайная структура...
 
 [Procedural generation of the backrooms (Multi-storey-poolrooms) | Babylon.js Playground](https://playground.babylonjs.com/#ELI45L)
 
