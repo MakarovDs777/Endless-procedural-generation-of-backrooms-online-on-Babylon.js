@@ -286,6 +286,10 @@
 
 [Backrooms on isurfaces (version 7 - Multi-storey poolrooms smooth + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#94Z2PF)
 
+Многоэтажные туннели вертикальных пещер.
+
+[Backrooms on isurfaces (version 8 - Multi-storey tunnels of vertical caves in One chunk + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#42BZNW)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
