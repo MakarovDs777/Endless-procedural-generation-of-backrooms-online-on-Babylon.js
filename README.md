@@ -296,6 +296,10 @@
 
 [Backrooms on isurfaces (version 10 - The most accurate version in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#JQI83H)
 
+Перевод версии с ровными поворотами [The most accurate version but they are turned exactly.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/The%20most%20accurate%20version%20but%20they%20are%20turned%20exactly.py)
+
+[Backrooms on isurfaces (version 11 - The most accurate version but they are turned exactly in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#GDWKAZ)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
