@@ -300,6 +300,10 @@
 
 [Backrooms on isurfaces (version 11 - The most accurate version but they are turned exactly in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#GDWKAZ)
 
+Перевод версии с [Backrooms on isurfaces (version 12 -The angular corridors of the backrooms are hollow in One chunk) | Babylon.js Playground](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/The%20angular%20corridors%20of%20the%20backrooms%20are%20hollow.py) на Babylon.js
+
+[Backrooms on isurfaces (version 12 -The angular corridors of the backrooms are hollow in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#GSB3M7)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
