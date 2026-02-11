@@ -290,6 +290,10 @@
 
 [Backrooms on isurfaces (version 8 - Multi-storey tunnels of vertical caves in One chunk + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#42BZNW)
 
+Бесконечные пещеры XYZ версия на изурфейсах.
+
+[Backrooms on isurfaces (version 9 - Endless Caves XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#AN50SK)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
