@@ -234,8 +234,6 @@
 
 ## Голографические процедурные генерации в бэкрумс онлайн версии
 
-/* Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя.*/
-
 /* [Procedural generation of the backrooms (The most accurate version) | Babylon.js Playground](https://playground.babylonjs.com/#774AAM) */
 
 Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии... Типа кто помнит что когда вращаешь камеру с одной стороны есть с другой нету это типа такое многомерное пространство получается или типа случайно как-то поялвяется при вращаение случайная структура...
@@ -253,6 +251,8 @@
 [Kane Pixel’s Backrooms in Babylon.js (Optional version - Cubic multi-storey biome generation) | Babylon.js Playground](https://playground.babylonjs.com/#945FVB#0)
 
 ## Бэкрумс на изурфейсах
+
+Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя.*/
 
 Хотел переписать код с python [Procedural-generation-of-the-backrooms-python/With-polygons/themezzanine2.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/themezzanine2.py) на Babylon.js но получилось в отдельном чанке комнаты изурфейсов.
 
