@@ -294,6 +294,10 @@
 
 [Backrooms on isurfaces (version 9 - Endless Caves XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#AN50SK)
 
+Перевод самой точной версии бэкрумс [The most accurate version.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/The%20most%20accurate%20version.py) с python на babylon.js...
+
+[Backrooms on isurfaces (version 10 - The most accurate version in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#JQI83H)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
