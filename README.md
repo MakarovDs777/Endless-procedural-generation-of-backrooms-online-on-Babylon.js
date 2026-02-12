@@ -308,6 +308,10 @@
 
 [Backrooms on isurfaces (version 13 - Sharp-angled hollow corridors backrooms with rooms on One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#4C9DP7)
 
+Перевод с версии гиперкуба [Hypercube poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-poolrooms.py)
+
+[Backrooms on isurfaces (version 14 - Hypercube) | Babylon.js Playground](https://playground.babylonjs.com/#439KYS)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
