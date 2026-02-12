@@ -320,6 +320,10 @@
 
 [Backrooms on isurfaces (version 15 - Single-storey poolrooms) | Babylon.js Playground](https://playground.babylonjs.com/#GLJ3DZ)
 
+Тоде что и предыдущая только я положил на бок генерацию что-бы генерировать с XZ осях.
+
+[Backrooms on isurfaces (version 16 - Single-storey poolrooms XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#ZUPQG1)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
