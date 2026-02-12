@@ -232,6 +232,10 @@
 
 [Backrooms in Babylon.js (Optional version - endless generated endless multi-storey carpets and ceilings) | Babylon.js Playground](https://playground.babylonjs.com/#8K5E4U)
 
+Отлично наконец я решил проблему с CSG я сделал бесконечную версию XZ.
+
+[Backrooms in Babylon.js (Optional version - The most accurate endless XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#774AAM#2)
+
 ## Голографические процедурные генерации в бэкрумс онлайн версии
 
 Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии... Типа кто помнит что когда вращаешь камеру с одной стороны есть с другой нету это типа такое многомерное пространство получается или типа случайно как-то поялвяется при вращаение случайная структура...
