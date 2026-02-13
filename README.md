@@ -328,6 +328,10 @@
 
 [Backrooms on isurfaces (version 17 - Single-storey poolrooms smooth XZ in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#0RSVQX#1)
 
+То же что и 16 версия бэкрумса на изурфейсах только бесконечно процедурно генерируемая.
+
+[Backrooms on isurfaces (version 18 - Single-storey poolrooms endless procedural XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#FIN4ON#1)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
