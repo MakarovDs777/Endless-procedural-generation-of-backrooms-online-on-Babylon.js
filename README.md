@@ -326,7 +326,7 @@
 
 Перевод с версии [Single storey poolrooms smooth.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/single-storey-poolrooms-smooth.py) на Babylon.js
 
-[Backrooms on isurfaces (version 17 - Single-storey poolrooms smooth XZ in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#0RSVQX)
+[Backrooms on isurfaces (version 17 - Single-storey poolrooms smooth XZ in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#0RSVQX#1)
 
 ## Бэкрумс + Гонки
 
