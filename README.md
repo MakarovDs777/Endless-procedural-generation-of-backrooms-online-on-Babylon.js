@@ -320,9 +320,13 @@
 
 [Backrooms on isurfaces (version 15 - Single-storey poolrooms) | Babylon.js Playground](https://playground.babylonjs.com/#GLJ3DZ)
 
-Тоде что и предыдущая только я положил на бок генерацию что-бы генерировать с XZ осях.
+Тоже что и предыдущая только я положил на бок генерацию что-бы генерировать с XZ осях.
 
 [Backrooms on isurfaces (version 16 - Single-storey poolrooms XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#ZUPQG1)
+
+Перевод с версии [Single storey poolrooms smooth.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/single-storey-poolrooms-smooth.py) на Babylon.js
+
+[Backrooms on isurfaces (version 17 - Single-storey poolrooms smooth XZ in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#0RSVQX)
 
 ## Бэкрумс + Гонки
 
