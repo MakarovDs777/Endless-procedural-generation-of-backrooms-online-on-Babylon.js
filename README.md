@@ -236,6 +236,11 @@
 
 [Backrooms in Babylon.js (Optional version - The most accurate endless XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#774AAM#2)
 
+Бесконечные процедурные трубы ковёр XZ версия.
+
+[Backrooms in Babylon.js (Optional version - Endless procedural pipes XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#UL25WX)
+
+
 ## Голографические процедурные генерации в бэкрумс онлайн версии
 
 Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии... Типа кто помнит что когда вращаешь камеру с одной стороны есть с другой нету это типа такое многомерное пространство получается или типа случайно как-то поялвяется при вращаение случайная структура...
