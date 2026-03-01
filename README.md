@@ -397,6 +397,10 @@
 
 [Backrooms in Babylon.js level 11 - The Endless Sity (Version 2) | Babylon.js Playground](https://playground.babylonjs.com/#2NVEV2#1)
 
+Добавим поля телепорта.
+
+[Backrooms in Babylon.js level 11 - The Endless Sity (Version 3) | Babylon.js Playground](https://playground.babylonjs.com/#6KLFTE)
+
 ## Уровень - Бесконечное небо
 
 Бэкрумс уровень бесконечное небо с бесконечно процедурно генерирумымм молниями.
