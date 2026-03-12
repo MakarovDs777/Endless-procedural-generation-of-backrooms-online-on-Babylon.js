@@ -108,7 +108,7 @@
 
 [Backrooms in Babylon.js(Optional version-The carpet is endless, but the texture can be changed through the input field) | Babylon.js Playground](https://playground.babylonjs.com/#AHP53D#0)
 
-Представьте бэкрумс в котором есть только потолок, пол, и люминсцентные лампы а стен нету! Это именно то.
+Представьте бэкрумс в котором есть только потолок, пол, и люминисцентные лампы а стен нету! Это именно то.
 
 [Backrooms in Babylon.js (Optional version - no walls) | Babylon.js Playground](https://playground.babylonjs.com/#T7SDF5#0)
 
@@ -224,7 +224,7 @@
 
 [Backrooms in Babylon.js (Optional version - Endless procedural generation of GLB structures by XZ) | Babylon.js Playground](https://playground.babylonjs.com/#3XBMAI#2)
 
-Представим бэкрумс но есть только потолок, пол. 
+Представим бэкрумс но есть только потолок, и пол. 
 
 [Backrooms in Babylon.js (Optional version - no walls just endless carpet and endless ceiling) | Babylon.js Playground](https://playground.babylonjs.com/#N10Q92)
 
@@ -240,6 +240,9 @@
 
 [Backrooms in Babylon.js (Optional version - Endless procedural pipes XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#UL25WX)
 
+Представьте бэкрумс бесконечный но эта стена которая простирается с -Y по +Y бесконечно с полем ввода которая изменяет текстуру на URL картинку этой стены.
+
+[Backrooms in Babylon.js (Optional version - An infinitely generated -Y +Y wall + image URL input field) | Babylon.js Playground](https://playground.babylonjs.com/#OFVLEP)
 
 ## Голографические процедурные генерации в бэкрумс онлайн версии
 
@@ -435,7 +438,7 @@
 
 ## Уровень - Бесконечное море цветного шума
 
-Но вот теперь осталось лишь сделать бесконечную процедурно генерируемую плосокость цветного шума, и это уже похоже на уровень монохрома.
+Но вот теперь осталось лишь сделать бесконечную процедурно генерируемую плоскость цветного шума, и это уже похоже на уровень монохрома.
 
 [Backrooms in Babylon.js (Optional version - Endless colored noises) | Babylon.js Playground](https://playground.babylonjs.com/#3Z112L)
 
@@ -457,7 +460,7 @@
 
 [Backrooms in Babylon.js (Optional version - The Matrix Endless Library Russian version + Coordinate board) | Babylon.js Playground](https://playground.babylonjs.com/#14XFIB)
 
-В этом дожде из матрице есть однозначно какой-то глубиный смысл только нужно понять какой... Ведь как известно там где высоко там снизу вселенная лишь многомерится меняя лишь эталон, и меру.
+В этом дожде из матрице есть однозначно какой-то глубинный смысл только нужно понять какой... Ведь как известно там где высоко там снизу вселенная лишь многомерится меняя лишь эталон, и меру.
 
 ## P.S.
 
