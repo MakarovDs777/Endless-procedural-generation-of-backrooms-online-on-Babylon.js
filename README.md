@@ -462,7 +462,7 @@
 
 В этом дожде из матрице есть однозначно какой-то глубинный смысл только нужно понять какой... Ведь как известно там где высоко там снизу вселенная лишь многомерится меняя лишь эталон, и меру.
 
-[Backrooms in Babylon.js (Optional version - The Matrix an endless library of words Russian version + Coordinate board) | Babylon.js Playground](https://playground.babylonjs.com/#5P5Z74)
+[Backrooms in Babylon.js (Optional version - The Matrix an endless library of words English version + Coordinate board) | Babylon.js Playground](https://playground.babylonjs.com/#5P5Z74#1)
 
 Теперь заменим буквы на случайные слова, и сделаем бесконечную процедурную XZ версию.
 
