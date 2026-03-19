@@ -352,6 +352,10 @@
 
 [Backrooms on isurfaces (version 20 -The angular corridors of the backrooms are hollow in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#3AHFKT)
 
+Теперь сделаем ту же версию с повернутыми на 360 градуссов помещениями я переписал из [The most accurate version randomly rotated on 360 ](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/The%20most%20accurate%20version%20randomly%20rotated%20on%20360.py).
+
+[Backrooms on isurfaces (version 21 - The most accurate version randomly rotated on 360 in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#T9XNEB#1)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
