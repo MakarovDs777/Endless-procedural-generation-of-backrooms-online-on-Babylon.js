@@ -340,21 +340,25 @@
 
 [Backrooms on isurfaces (version 17 - Single-storey poolrooms smooth XZ in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#0RSVQX#1)
 
-То же что и 16 версия бэкрумса на изурфейсах только бесконечно процедурно генерируемая.
+То же что, и 16 версия бэкрумса на изурфейсах только бесконечно процедурно генерируемая.
 
 [Backrooms on isurfaces (version 18 - Single-storey poolrooms endless procedural XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#FIN4ON#1)
 
-То же что и 13 версия только повернута по XZ а не сниху вверх как та версия.
+То же что, и 13 версия только повернута по XZ а не снизу вверх как-та самая версия.
 
 [Backrooms on isurfaces (version 19 - Sharp-angled hollow corridors backrooms with rooms on One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#FJ528J)
 
-Тоже что и 12 версия только повернута по XZ а не сниху вверх как та версия.
+Тоже что, и 12 версия только повернута по XZ а не снизу вверх как-та самая версия.
 
 [Backrooms on isurfaces (version 20 -The angular corridors of the backrooms are hollow in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#3AHFKT)
 
 Теперь сделаем ту же версию с повернутыми на 360 градуссов помещениями я переписал из [The most accurate version randomly rotated on 360 ](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/The%20most%20accurate%20version%20randomly%20rotated%20on%20360.py).
 
 [Backrooms on isurfaces (version 21 - The most accurate version randomly rotated on 360 in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#T9XNEB#1)
+
+Перепишем многоэтажный комплекс соединенный лифтовыми шахтами за основу взято -> [Corridors backrooms is sharp multi-storey.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/Corridors%20backrooms%20is%20sharp%20multi-storey.py)
+
+[Backrooms on isurfaces (version 22 - Corridors backrooms is sharp multi-storey in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#7EA8DB)
 
 ## Бэкрумс + Гонки
 
