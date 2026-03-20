@@ -264,6 +264,10 @@
 
 [Kane Pixel’s Backrooms in Babylon.js (Optional version - Cubic multi-storey biome generation) | Babylon.js Playground](https://playground.babylonjs.com/#945FVB#0)
 
+Версия XZ бэкрумса Кейна Пикселя со смятыми коридорами, и комнатами бескнечно процедурно генерируемая.
+
+[Kane Pixel’s Backrooms in Babylon.js (Optional version - Endless XZ multybioms crumpled version) | Babylon.js Playground](https://playground.babylonjs.com/#5ADFJW)
+
 ## Бэкрумс на изурфейсах
 
 Я хотел конвертировать [свои процедурные генерации бэкрумс](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python) с python на babylon.js что-бы внести финальную лепту в бэкрумс Кейна Пикселя. 
