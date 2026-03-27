@@ -364,6 +364,8 @@
 
 [Backrooms on isurfaces (version 22 - Corridors backrooms is sharp multi-storey in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#7EA8DB)
 
+[Backrooms on isurfaces (version 23 - Endless Dark Zone XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#AU1RDG)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
