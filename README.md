@@ -254,6 +254,10 @@
 
 [Procedural generation of the backrooms (Multi-storey-poolrooms) | Babylon.js Playground](https://playground.babylonjs.com/#ELI45L)
 
+Процедурный генератор небоскрёба.
+
+[Procedural generation of the backrooms (Multi-storey Skyscraper Procedural Generation) | Babylon.js Playground](https://playground.babylonjs.com/#L9HFKV)
+
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
