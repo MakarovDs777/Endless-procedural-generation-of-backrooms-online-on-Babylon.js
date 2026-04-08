@@ -368,6 +368,8 @@
 
 [Backrooms on isurfaces (version 22 - Corridors backrooms is sharp multi-storey in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#7EA8DB)
 
+Чем-то напоминает далёкие земли бэкрумса где генерация типа настолько сломанна что это же неполносвязнные коридоры, и комнаты висящие где в пустоте отдельно друг от друга, и хотя далёкие земли бэкрумса это просто каша из глюков то есть скорее было-бы коректнее назвать это преддалёкими землями бэкрумса что-то типа в таком духе...
+
 [Backrooms on isurfaces (version 23 - Endless Dark Zone XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#AU1RDG)
 
 ## Бэкрумс + Гонки
