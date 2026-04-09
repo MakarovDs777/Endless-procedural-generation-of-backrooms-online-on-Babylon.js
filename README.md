@@ -278,7 +278,7 @@
 
 Хотел переписать код с python [Procedural-generation-of-the-backrooms-python/With-polygons/themezzanine2.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/themezzanine2.py) на Babylon.js но получилось в отдельном чанке комнаты изурфейсов.
 
-[Backrooms on isurfaces (version 0 - Themezzanine 2) | Babylon.js Playground](https://playground.babylonjs.com/#YCI2DG#4) 
+[Backrooms on isurfaces (version 0 - Themezzanine 2) | Babylon.js Playground](https://playground.babylonjs.com/#YCI2DG#5) 
 
 Теперь хочу переписать [Multi-storey-curved-corridor.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-curved-corridor.py) на Babylon.js и вот что получилось:
 
