@@ -376,6 +376,10 @@
 
 [Backrooms on isurfaces (version 25 - Multi-storey poolrooms just corridors)) | Babylon.js Playground](https://playground.babylonjs.com/#U5QGRN)
 
+Теперь нужно сделать снизу-вверх версию а то слева-направо.
+
+[Backrooms on isurfaces (version 26 - Multi-storey poolrooms just corridors in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#GL3ZJW)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
