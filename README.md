@@ -372,6 +372,10 @@
 
 [Backrooms on isurfaces (version 23 - Endless Dark Zone XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#AU1RDG)
 
+Перевод с версии [Multi-storey-poolrooms-just-coridors.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-just-coridors.py) 
+
+[Backrooms on isurfaces (version 25 - Multi-storey poolrooms just corridors)) | Babylon.js Playground](https://playground.babylonjs.com/#U5QGRN)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
