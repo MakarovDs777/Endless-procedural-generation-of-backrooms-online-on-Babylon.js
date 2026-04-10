@@ -372,13 +372,17 @@
 
 [Backrooms on isurfaces (version 23 - Endless Dark Zone XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#AU1RDG)
 
-Перевод с версии [Multi-storey-poolrooms-just-coridors.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-just-coridors.py) 
+Перевод с версии [Multi-storey-poolrooms-just-coridors.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-just-coridors.py) моя самая любимая версия.
 
 [Backrooms on isurfaces (version 25 - Multi-storey poolrooms just corridors)) | Babylon.js Playground](https://playground.babylonjs.com/#U5QGRN)
 
 Теперь нужно сделать снизу-вверх версию а то слева-направо.
 
 [Backrooms on isurfaces (version 26 - Multi-storey poolrooms just corridors in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#GL3ZJW)
+
+Перевод с версии [Multi-storey-poolrooms-combined.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-combined.py).
+
+[Backrooms on isurfaces (version 27 - Multi-storey-poolrooms-combined) | Babylon.js Playground](https://playground.babylonjs.com/#H95KY7)
 
 ## Бэкрумс + Гонки
 
