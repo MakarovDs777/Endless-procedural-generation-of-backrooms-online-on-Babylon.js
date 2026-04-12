@@ -282,7 +282,7 @@
 
 Теперь хочу переписать [Multi-storey-curved-corridor.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-curved-corridor.py) на Babylon.js и вот что получилось:
 
-[Backrooms on isurfaces (version 1 - Wormholes) | Babylon.js Playground](https://playground.babylonjs.com/#3GSN00)
+[Backrooms on isurfaces (version 1 - Wormholes) | Babylon.js Playground](https://playground.babylonjs.com/#3GSN00#1)
 
 Теперь нужно сделать в одном чанке этот код [multi storey hell.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-hell.py).
 
