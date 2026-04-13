@@ -400,6 +400,10 @@
 
 [Backrooms on isurfaces (version 31 - From-room-to-room-multistory) | Babylon.js Playground](https://playground.babylonjs.com/#W0050K)
 
+Перевод с версии [Hypercube-without-rooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-without-rooms.py)
+
+[Backrooms on isurfaces (version 32 - Hypercube-without-rooms) | Babylon.js Playground](https://playground.babylonjs.com/#2OTRRH)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
