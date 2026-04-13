@@ -394,7 +394,7 @@
 
 Перевод с версии [Multi-storey-curved-corridor.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-curved-corridor.py)
 
-[Backrooms on isurfaces (version 30 - Multi-storey-curved-corridor) | Babylon.js Playground](https://playground.babylonjs.com/#U05M6G)
+[Backrooms on isurfaces (version 30 - Multi-storey-curved-corridor) | Babylon.js Playground](https://playground.babylonjs.com/#U05M6G#1)
 
 ## Бэкрумс + Гонки
 
