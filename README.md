@@ -398,7 +398,7 @@
 
 Перевод с версии [From-room-to-room-multistory.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/From-room-to-room-multistory.py)
 
-[Backrooms on isurfaces (version 31 - From-room-to-room-multistory) | Babylon.js Playground](https://playground.babylonjs.com/#W0050K)
+[Backrooms on isurfaces (version 31 - From-room-to-room-multistory) | Babylon.js Playground](https://playground.babylonjs.com/#W0050K#1)
 
 Перевод с версии [Hypercube-without-rooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-without-rooms.py)
 
