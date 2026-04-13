@@ -396,6 +396,10 @@
 
 [Backrooms on isurfaces (version 30 - Multi-storey-curved-corridor) | Babylon.js Playground](https://playground.babylonjs.com/#U05M6G#1)
 
+Перевод с версии [From-room-to-room-multistory.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/From-room-to-room-multistory.py)
+
+[Backrooms on isurfaces (version 31 - From-room-to-room-multistory) | Babylon.js Playground](https://playground.babylonjs.com/#W0050K)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
