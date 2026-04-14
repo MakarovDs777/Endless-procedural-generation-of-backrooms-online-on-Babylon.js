@@ -404,6 +404,10 @@
 
 [Backrooms on isurfaces (version 32 - Hypercube-without-rooms) | Babylon.js Playground](https://playground.babylonjs.com/#2OTRRH)
 
+Перевод с версии [Corridor-multi-storey-chaos-poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Corridor-multi-storey-chaos-poolrooms.py)
+
+[Backrooms on isurfaces (version 33 - Corridors-multi-storey-chaos-poolrooms) | Babylon.js Playground](https://playground.babylonjs.com/#BQMC0D)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
