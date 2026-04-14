@@ -408,6 +408,10 @@
 
 [Backrooms on isurfaces (version 33 - Corridors-multi-storey-chaos-poolrooms) | Babylon.js Playground](https://playground.babylonjs.com/#BQMC0D)
 
+Перевод с версии [Multi-storey-poolrooms-askew.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-askew.py)
+
+[Backrooms on isurfaces (version 34 - Multi-storey-poolrooms-askew) | Babylon.js Playground](https://playground.babylonjs.com/#VP0S93)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
