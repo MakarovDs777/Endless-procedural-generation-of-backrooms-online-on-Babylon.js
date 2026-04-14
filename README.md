@@ -412,6 +412,10 @@
 
 [Backrooms on isurfaces (version 34 - Multi-storey-poolrooms-askew) | Babylon.js Playground](https://playground.babylonjs.com/#VP0S93)
 
+Перевод с версии [Hypercube-spherical.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-spherical.py)
+
+[Backrooms on isurfaces (version 35 - Hypercube-spherical) | Babylon.js Playground](https://playground.babylonjs.com/#QAC35T)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
