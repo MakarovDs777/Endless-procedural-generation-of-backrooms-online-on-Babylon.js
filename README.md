@@ -286,7 +286,7 @@
 
 Теперь нужно сделать в одном чанке этот код [multi storey hell.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-hell.py).
 
-[Backrooms on isurfaces (version 2 - Multi-storey-hell in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#7VUKJ2)
+[Backrooms on isurfaces (version 2 - Multi-storey-hell in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#7VUKJ2#1)
 
 Ну вот в одном чанке сделаем этот код [Multi storey poolroms just coridors](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Multi-storey-poolrooms-just-coridors.py) 
 
