@@ -402,7 +402,7 @@
 
 Перевод с версии [Hypercube-without-rooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-without-rooms.py)
 
-[Backrooms on isurfaces (version 32 - Hypercube-without-rooms) | Babylon.js Playground](https://playground.babylonjs.com/#2OTRRH#1)
+[Backrooms on isurfaces (version 32 - Hypercube-without-rooms) | Babylon.js Playground](https://playground.babylonjs.com/#2OTRRH#2)
 
 Перевод с версии [Corridor-multi-storey-chaos-poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Corridor-multi-storey-chaos-poolrooms.py)
 
