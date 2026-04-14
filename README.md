@@ -416,6 +416,14 @@
 
 [Backrooms on isurfaces (version 35 - Hypercube-spherical) | Babylon.js Playground](https://playground.babylonjs.com/#QAC35T)
 
+Перевод с версии [Single-storey-corridors-without-poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Single-storey-corridors-without-poolrooms.py)
+
+[Backrooms on isurfaces (version 36 - Single-storey-corridors-without-poolrooms) | Babylon.js Playground](https://playground.babylonjs.com/#7M8FQI)
+
+Тоже что и предыдущий код только XZ версия.
+
+[Backrooms on isurfaces (version 37 - Single-storey-corridors-without-poolrooms in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#DS0DW1)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
