@@ -424,6 +424,10 @@
 
 [Backrooms on isurfaces (version 37 - Single-storey-corridors-without-poolrooms in One chunk XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#DS0DW1)
 
+Тоже что и 33 версия только за место нормальных изурфейсов мишура изурфейсов.
+
+[Backrooms on isurfaces (version 38 - Corridors-multi-storey-chaos-poolrooms tinsel from isurfaces) | Babylon.js Playground](https://playground.babylonjs.com/#7G4WNN)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
