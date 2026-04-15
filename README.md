@@ -428,6 +428,10 @@
 
 [Backrooms on isurfaces (version 38 - Corridors-multi-storey-chaos-poolrooms tinsel from isurfaces) | Babylon.js Playground](https://playground.babylonjs.com/#7G4WNN)
 
+Тоже что и Wormholes только в одном чанке а не бесконечно.
+
+[Backrooms on isurfaces (version 39 - Corridors-multi-storey-chaos-poolrooms random rotated 360 in One chunk XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#WWOFK7)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
