@@ -260,11 +260,11 @@
 
 Процедурный генератор бруталиских руин.
 
-[Procedural generation of the backrooms (Procedural Building Ruins Generator - Brutal ruins) | Babylon.js Playground](https://playground.babylonjs.com/#SEDQ30)
+[Procedural generation of the backrooms (Procedural Building Ruins Generator - Brutal ruins) | Babylon.js Playground](https://playground.babylonjs.com/#SEDQ30#1)
 
 Процедурный генератор бруталиских зданий для паркура.
 
-[Procedural generation of the backrooms (Procedural Parkour Building Generator - Brutalist parkour) | Babylon.js Playground](https://playground.babylonjs.com/#JBELT4)
+[Procedural generation of the backrooms (Procedural Parkour Building Generator - Brutalist parkour) | Babylon.js Playground](https://playground.babylonjs.com/#JBELT4#1)
 
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
