@@ -440,6 +440,10 @@
 
 [Backrooms on isurfaces (version 41 - Vertical pillars) | Babylon.js Playground](https://playground.babylonjs.com/#GNFT2W)
 
+Тоже что и предыдущая только столбы от самого низа до самого вверха.
+
+[Backrooms on isurfaces (version 42 - Vertical pillars from the very bottom to the very top) | Babylon.js Playground](https://playground.babylonjs.com/#R43RXI)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
