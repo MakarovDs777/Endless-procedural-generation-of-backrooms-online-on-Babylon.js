@@ -436,6 +436,10 @@
 
 [Backrooms on isurfaces (version 40 - Vertical, and horizontal wormholes in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#370JOG)
 
+Чисто вертикальные стволы шахт.
+
+[Backrooms on isurfaces (version 41 - Vertical pillars) | Babylon.js Playground](https://playground.babylonjs.com/#GNFT2W)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
