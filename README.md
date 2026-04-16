@@ -456,6 +456,14 @@
 
 [Backrooms on isurfaces (version 43 - Vertical pillars from the very bottom to the very top but no ground) | Babylon.js Playground](https://playground.babylonjs.com/#RJ9YQD)
 
+Перевод с версии [Standard-corridors.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/Trimesh/Standard-corridors.py)
+
+[Backrooms on isurfaces (version 44 - Standard-corridors) | Babylon.js Playground](https://playground.babylonjs.com/#C5B2CU)
+
+Тоже что и предыдущая только снизу вверх вертикально.
+
+[Backrooms on isurfaces (version 45 - Standard-corridors vertical version) | Babylon.js Playground](https://playground.babylonjs.com/#BLXF9Y)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
