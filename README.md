@@ -262,7 +262,7 @@
 
 [Procedural generation of the backrooms (Procedural Building Ruins Generator - Brutal ruins) | Babylon.js Playground](https://playground.babylonjs.com/#SEDQ30)
 
-Процедурный генератор зданйи для паркура.
+Процедурный генератор бруталиских зданий для паркура.
 
 [Procedural generation of the backrooms (Procedural Parkour Building Generator - Brutalist parkour) | Babylon.js Playground](https://playground.babylonjs.com/#JBELT4)
 
