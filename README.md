@@ -266,6 +266,10 @@
 
 [Procedural generation of the backrooms (Procedural Parkour Building Generator - Brutalist parkour) | Babylon.js Playground](https://playground.babylonjs.com/#JBELT4#1)
 
+Странные комнаты с стенами на поверхностях странных обрезанных ландшафтов.
+
+[Procedural generation of the backrooms (A procedural generator of strange the backrooms - Strange rooms) | Babylon.js Playground](https://playground.babylonjs.com/#XEEUEY)
+
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
 Представим что бэкрумс это пирог где на одном этаже один биом, на втором этаже другой биом, и так когда цикл количества биомов завершается он повторяется снова, и так до бесконечности.
