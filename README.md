@@ -248,7 +248,7 @@
 
 [Backrooms in Babylon.js (Optional version - The most accurate endless XZ version + teleport) | Babylon.js Playground](https://playground.babylonjs.com/#8QMAW9)
 
-## Голографические процедурные генерации в бэкрумс онлайн версии
+## Другие процедурные генераторы в бэкрумс
 
 Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии... Типа кто помнит что когда вращаешь камеру с одной стороны есть с другой нету это типа такое многомерное пространство получается или типа случайно как-то поялвяется при вращаение случайная структура...
 
@@ -257,6 +257,14 @@
 Процедурный генератор небоскрёба.
 
 [Procedural generation of the backrooms (Multi-storey Skyscraper Procedural Generation) | Babylon.js Playground](https://playground.babylonjs.com/#L9HFKV)
+
+Процедурный генератор бруталиских руин.
+
+[Procedural generation of the backrooms (Procedural Building Ruins Generator - Brutal ruins) | Babylon.js Playground](https://playground.babylonjs.com/#SEDQ30)
+
+Процедурный генератор зданйи для паркура.
+
+[Procedural generation of the backrooms (Procedural Parkour Building Generator - Brutalist parkour) | Babylon.js Playground](https://playground.babylonjs.com/#JBELT4)
 
 ## Kane Pixel’s Backrooms in Babylon.js - Optional version
 
