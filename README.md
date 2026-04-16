@@ -432,6 +432,10 @@
 
 [Backrooms on isurfaces (version 39 - Corridors-multi-storey-chaos-poolrooms random rotated 360 in One chunk XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#WWOFK7)
 
+Версия с вертикальными шахтами с проходами к случайным таким же шахтам.
+
+[Backrooms on isurfaces (version 40 - Vertical, and horizontal wormholes in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#370JOG)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
