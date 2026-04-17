@@ -472,6 +472,10 @@
 
 [Backrooms on isurfaces (version 46 - Multiple Standard-corridors 360 degrees rotated version) | Babylon.js Playground](https://playground.babylonjs.com/#ZJV3SM)
 
+Просто кубическое бруталиское пустое здание из острых углов.
+
+[Backrooms on isurfaces (version 47 - Brutalist buildings) | Babylon.js Playground](https://playground.babylonjs.com/#LLLXHY)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
