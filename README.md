@@ -474,7 +474,7 @@
 
 Теперь сделаем их много и случайно повернутыми на 360 градуссов.
 
-[Backrooms on isurfaces (version 46 - Multiple Standard-corridors 360 degrees rotated version) | Babylon.js Playground](https://playground.babylonjs.com/#ZJV3SM#1)
+[Backrooms on isurfaces (version 46 - Multiple Standard-corridors 360 degrees rotated version) | Babylon.js Playground](https://playground.babylonjs.com/#ZJV3SM#2)
 
 Просто кубическое бруталиское пустое здание из острых углов.
 
