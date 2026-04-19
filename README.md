@@ -358,7 +358,7 @@
 
 Перевод с версии гиперкуба [Hypercube poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-poolrooms.py) только с острыми углами а не тупыми.
 
-[Backrooms on isurfaces (version 14 - Hypercube) | Babylon.js Playground](https://playground.babylonjs.com/#439KYS#1)
+[Backrooms on isurfaces (version 14 - Hypercube) | Babylon.js Playground](https://playground.babylonjs.com/#439KYS#2)
 
 Перевод с версии [Single storey poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/single-storey-poolrooms.py) на Babylon.js
 
