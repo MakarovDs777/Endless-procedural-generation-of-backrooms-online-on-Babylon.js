@@ -6,9 +6,13 @@
 
 # Версия ПК 
 
-Я создал бэкрумс на движке babylon перемещаться с помощью стрелок ←, →, ↑, ↓ на клавиатуре и мыши.
+Я создал бэкрумс на движке babylon.js перемещаться с помощью стрелок ←, →, ↑, ↓ на клавиатуре и мыши.
 
 ## Оригинальный бэкрумс 
+
+По оригинальному канону бэкрумс - это место, расположенное под текстурами реальности, представляющее однообразные пространства уровней процедурно сгенерированного мира из неиспользуемого и вырезанного контента. Вещи, которые либо не подходили, либо были недостаточно хороши для их создания. Вырезка для реального мира. К примеру, если это уровень 0, то в нём только жёлтые ковры, только жёлтые обои, только люминесцентные ламп, и только белая потолочная плитка типа Армстронг-Байкал, и так до бесконечности.
+
+# Бэкрумс по канону 	
 
 В нулевой версии я добавил бесконечный процедурно генерируемый ковер.
 
@@ -43,6 +47,10 @@
 [Backrooms in Babylon.js (Version 7) | Babylon.js Playground](https://playground.babylonjs.com/#74JVEN#0)
 
 ## Версия Кейна Пикселя
+
+В понимании Кейна Пикселя, подсобные помещения - это место, расположенное под текстурами реальности, представляющее один бесконечный слоённый пирог пространства состоящий из разных уровней процедурно сгенерированного мира неиспользуемого и вырезанного контента. Вещи, которые либо не подходили, либо были недостаточно хороши для их создания. Вырезка для реального мира. К примеру, сначала идет 100 метров нулевого уровня помещения заканчивается, и потом идут 100 метров пятого уровня, и так до бесконечности…
+
+# Бэкрумс по Кейну Пикселю
 
 В первой версии я добавил возможность генерации структуры на основе граней и массивов вершин. Вам просто нужно немного отклониться в сторону, чтобы увидеть генерацию.
 
@@ -348,9 +356,9 @@
 
 [Backrooms on isurfaces (version 13 - Sharp-angled hollow corridors backrooms with rooms on One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#4C9DP7)
 
-Перевод с версии гиперкуба [Hypercube poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-poolrooms.py)
+Перевод с версии гиперкуба [Hypercube poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/Hypercube-poolrooms.py) только с острыми углами а не тупыми.
 
-[Backrooms on isurfaces (version 14 - Hypercube) | Babylon.js Playground](https://playground.babylonjs.com/#439KYS)
+[Backrooms on isurfaces (version 14 - Hypercube) | Babylon.js Playground](https://playground.babylonjs.com/#439KYS#1)
 
 Перевод с версии [Single storey poolrooms.py](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/single-storey-poolrooms.py) на Babylon.js
 
