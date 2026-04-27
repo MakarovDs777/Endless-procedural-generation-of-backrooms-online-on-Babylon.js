@@ -256,6 +256,10 @@
 
 [Backrooms in Babylon.js (Optional version - The most accurate endless XZ version + teleport) | Babylon.js Playground](https://playground.babylonjs.com/#8QMAW9)
 
+Реализация уровня [The Hub](https://sketchfab.com/3d-models/backrooms-level-thehub-canone-c36d56a2e38743f0837b8e0bd790d900) с бесконечным дорожным туннелем подземным по бокам которы двери на разные уровни.
+
+[Backrooms in Babylon.js (Optional version - Level The Hub) | Babylon.js Playground](https://playground.babylonjs.com/#EET6L1)
+
 ## Другие процедурные генераторы в бэкрумс
 
 Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии... Типа кто помнит что когда вращаешь камеру с одной стороны есть с другой нету это типа такое многомерное пространство получается или типа случайно как-то поялвяется при вращаение случайная структура...
