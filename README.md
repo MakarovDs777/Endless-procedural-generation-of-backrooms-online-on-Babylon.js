@@ -258,7 +258,7 @@
 
 Реализация уровня [The Hub](https://sketchfab.com/3d-models/backrooms-level-thehub-canone-c36d56a2e38743f0837b8e0bd790d900) с бесконечным дорожным туннелем подземным по бокам которы двери на разные уровни.
 
-[Backrooms in Babylon.js (Optional version - Level The Hub) | Babylon.js Playground](https://playground.babylonjs.com/#EET6L1)
+[Backrooms in Babylon.js (Optional version - Level The Hub) | Babylon.js Playground](https://playground.babylonjs.com/#EET6L1#1)
 
 ## Другие процедурные генераторы в бэкрумс
 
