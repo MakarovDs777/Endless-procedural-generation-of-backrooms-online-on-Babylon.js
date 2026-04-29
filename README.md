@@ -559,6 +559,10 @@
 
 [Backrooms on isurfaces (version 50 - Endless hypercube trimesh version) | Babylon.js Playground](https://playground.babylonjs.com/#8I37KB#2)
 
+Тоже что и 17 версия только с острыми углами комнат и гладким краями соединенний.
+
+[Backrooms on isurfaces (version 51 - Single-storey poolrooms smooth XZ in One chunk pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#0RSVQX#2)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
