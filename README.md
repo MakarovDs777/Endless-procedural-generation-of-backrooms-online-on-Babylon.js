@@ -563,6 +563,10 @@
 
 [Backrooms on isurfaces (version 51 - Single-storey poolrooms smooth XZ in One chunk pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#0RSVQX#2)
 
+Хаос коридоров но только с острыми гранями.
+
+[Backrooms on isurfaces (version 52 - Corridors-multi-storey-chaos-poolrooms pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#J9PA8Z)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
