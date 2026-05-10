@@ -317,7 +317,7 @@
 
 По сути тоже самое что, и бесконечный ковёр только здесь текстура RGB а не из URL.
 
-[Backrooms in Babylon.js (Optional version - Endless Carpet XZ version but no URL just RGB Image) | Babylon.js Playground](https://playground.babylonjs.com/#CRW33S)
+[Backrooms in Babylon.js (Optional version - Endless Carpet XZ version but no URL just RGB Image) | Babylon.js Playground](https://playground.babylonjs.com/#CRW33S#1)
 
 ## Другие процедурные генераторы в бэкрумс
 
