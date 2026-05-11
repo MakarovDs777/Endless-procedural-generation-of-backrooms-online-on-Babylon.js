@@ -571,6 +571,14 @@
 
 [Backrooms on isurfaces (version 52 - Corridors-multi-storey-chaos-poolrooms pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#J9PA8Z)
 
+Тоже что и 42 версия только бесконечная по XZ.
+
+[Backrooms on isurfaces (version 53 - Vertical pillars from the very bottom to the very top endless XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#IRX5VI)
+
+Тоже что и предыдущая только без прозрачности, и с одинаковым цветом везде.
+
+[Backrooms on isurfaces (version 54 - Endless Moria XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#D38F76)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
