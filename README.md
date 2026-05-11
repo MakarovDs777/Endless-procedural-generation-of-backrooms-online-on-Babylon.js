@@ -579,6 +579,10 @@
 
 [Backrooms on isurfaces (version 54 - Endless Moria XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#D38F76)
 
+Тоже что и предыдущая только с коробками дырок от пуль.
+
+[Backrooms on isurfaces (version 55 - Boxes of isurfaces with bullet holes XZ endless version) | Babylon.js Playground](https://playground.babylonjs.com/#GZU5RM)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
