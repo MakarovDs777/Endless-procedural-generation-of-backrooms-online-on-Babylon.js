@@ -1,3 +1,5 @@
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 130 кодов созданные мной.
+
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
 # Предисловие 
@@ -587,7 +589,7 @@
 
 [Backrooms on isurfaces (version 56 - Endless Moria XZ version but smooth carpet and ceilings) | Babylon.js Playground](https://playground.babylonjs.com/#2M7TAV)
 
-Бесконечная многоэтажная прцоедурно генерируемая Мория.
+Бесконечная многоэтажная процедурно генерируемая Мория.
 
 [Backrooms on isurfaces (version 57 - Endless Moria XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#UDN40B)
 
