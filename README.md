@@ -329,7 +329,7 @@
 
 Процедурный генератор небоскрёба.
 
-[Procedural generation of the backrooms (Multi-storey Skyscraper Procedural Generation) | Babylon.js Playground](https://playground.babylonjs.com/#L9HFKV)
+[Procedural generation of the backrooms (Multi-storey Skyscraper Procedural Generation) | Babylon.js Playground](https://playground.babylonjs.com/#L9HFKV#1)
 
 Процедурный генератор бруталиских руин.
 
