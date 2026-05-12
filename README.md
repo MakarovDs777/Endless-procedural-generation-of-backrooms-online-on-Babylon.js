@@ -185,7 +185,7 @@
 
 [Backrooms in Babylon.js (Optional version - In different dimensions, sets from different biomes XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#KQXD6E#0)
 
-Представим что есть бесконечный процедурно генерируемый XYZ бэкрумс но генерация биомов происходит по маскам скажем 0 - это отсутвие комнаты 1 - это какая-то структура OBJ и так до бесконечности.
+Представим что есть бесконечный процедурно генерируемый XYZ бэкрумс но генерация биомов происходит по маскам скажем 0 - это отсутвие комнаты, 1 - это какая-то структура OBJ, и так до бесконечности.
 
 [Backrooms in Babylon.js (Optional version - Generating biomes by masks) | Babylon.js Playground](https://playground.babylonjs.com/#6M3H3Y#0)
 
@@ -313,7 +313,7 @@
 
 [Backrooms in Babylon.js (Optional version - The most accurate endless XZ version + teleport) | Babylon.js Playground](https://playground.babylonjs.com/#8QMAW9)
 
-Реализация уровня [The Hub](https://sketchfab.com/3d-models/backrooms-level-thehub-canone-c36d56a2e38743f0837b8e0bd790d900) с бесконечным дорожным туннелем подземным по бокам которы двери на разные уровни.
+Реализация уровня [The Hub](https://sketchfab.com/3d-models/backrooms-level-thehub-canone-c36d56a2e38743f0837b8e0bd790d900) с бесконечным дорожным туннелем подземным по бокам которых двери на разные уровни.
 
 [Backrooms in Babylon.js (Optional version - Level The Hub) | Babylon.js Playground](https://playground.babylonjs.com/#EET6L1#1)
 
@@ -329,7 +329,7 @@
 
 Процедурный генератор небоскрёба.
 
-[Procedural generation of the backrooms (Multi-storey Skyscraper Procedural Generation) | Babylon.js Playground](https://playground.babylonjs.com/#L9HFKV#1)
+[Procedural generation of the backrooms (Multi-storey Skyscraper Procedural Generation) | Babylon.js Playground](https://playground.babylonjs.com/#L9HFKV#2)
 
 Процедурный генератор бруталиских руин.
 
