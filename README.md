@@ -721,6 +721,10 @@
 
 [Backrooms in Babylon.js level -1000007 - Infinite Skyscrapers (Version 0 - randomly hanging skyscrapers) | Babylon.js Playground](https://playground.babylonjs.com/#CEHD7X)
 
+<img width="938" height="1668" alt="Небоскрёб_в_пустом_пространстве" src="https://github.com/user-attachments/assets/3ba4ba1b-6518-4401-b246-4b9613b6118c" />
+
+[Backrooms in Babylon.js level -1000007 - Infinite Skyscrapers (Version 1 - One endless skyscraper) | Babylon.js Playground](https://playground.babylonjs.com/#ECB8UT)
+
 <img width="960" height="720" alt="Небоскребы_из_небоскребов" src="https://github.com/user-attachments/assets/da8d5150-abeb-40f4-b249-5d59ff30caaa" />
 
 <img width="758" height="520" alt="Бесконечные_небоскребы_до_определённой_высоты" src="https://github.com/user-attachments/assets/911796f1-ade9-417f-aff2-fb1ab65e7cbd" />
@@ -728,8 +732,6 @@
 <img width="5616" height="3744" alt="Небоскрёб_в_пустом_пространстве_2" src="https://github.com/user-attachments/assets/4a823e6b-b4ee-4e4b-874b-7ca403c37779" />
 
 <img width="5616" height="3744" alt="Небоскрёб_в_пустом_пространстве_1" src="https://github.com/user-attachments/assets/415fb38c-6415-4254-b4e0-d3175f9158e1" />
-
-<img width="938" height="1668" alt="Небоскрёб_в_пустом_пространстве" src="https://github.com/user-attachments/assets/3ba4ba1b-6518-4401-b246-4b9613b6118c" />
 
 <img width="802" height="606" alt="Инфернальные_хрющёвки" src="https://github.com/user-attachments/assets/ea478c2a-070b-4e76-a420-32be9ec2c18f" />
 
