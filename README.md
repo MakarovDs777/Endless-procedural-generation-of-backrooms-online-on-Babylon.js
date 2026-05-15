@@ -657,7 +657,7 @@
 
 [Backrooms in Babylon.js level 11 - The Endless Sity (Version 3) | Babylon.js Playground](https://playground.babylonjs.com/#6KLFTE)
 
-## Уровень - Бесконечное небо
+## Бесконечное небо
 
 Бэкрумс уровень бесконечное небо с бесконечно процедурно генерирумымм молниями.
 
@@ -671,7 +671,7 @@
 
 [Backrooms in Babylon.js (Optional version - Endless sky with fog and snow) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#XSO03M)
 
-## Уровень -9223372036854775808
+## -9223372036854775808
 
 Хотел сделать бесконечный океан глюка типа как уровень монохром как его чаще называют [Backrooms Level -9223372036854775808](https://sketchfab.com/3d-models/backrooms-level-9223372036854775808-5e0a01f01cf44cffacb7ae56750ea099), и сделал бесконечно процедурно генерируемые микро шумы:
 
@@ -719,29 +719,35 @@
 
 Теперь заменим буквы на случайные слова, и сделаем бесконечную процедурную XZ версию.
 
-# Уровень -1 000 007 Бесконечные небоскребы
+## Уровень -1 000 007 Бесконечные небоскребы
 
 Уровень бесконечных небоскребов – это -1 000 007 уровень в бэкрумсе, это уровень который я придумал по сути уровень представляет из себя огромное темное пустое пространство из которого выходят небоскребы различного типа, высоты, и ширины, расположенные друг от друга на различное расстояние. Предположительно уровень имеет бесконечную высоту, ширину, и длину, однако этого точно никто не знает. Попытки узнать, и установить, что находиться в нижнем темном пространстве, оканчивались неудачей, люди, и предметы, попадавшие туда просто пропадали из виду, и исчезали. Было замечены различные аномальные случаи, как целые небоскребы вырывались вверх, двигаясь с большой скоростью из нижнего темного пространства, и даже сталкиваясь тем самым с другими небоскребами, и также загадочно быстро исчезали проваливаясь туда, были замечены случаи как небоскребы стояли прямо на небе, генерировались на ходу, находились склеенными, налепленные друг на друга, состояли из городов, и имели бесконечную высоту. На уровне так же наблюдались различные атмосферные, и погодные явления, такие осадки как (дождь, морось, снег, град, гроза, зарница, огни святого Эльма, и т.д.) и так же сопровождаемые этими атмосферными явлениями наземные гидрометеоры (роса, иней, ледяные иглы, изморозь (кристаллическая и зернистая), твёрдый налёт, гололёд, гололедица), различные оптические явления (радуга, гало, мираж, солнечный столб, заря, глория), и даже такие явления как (ураган, смерч, шквал, вихрь, циклон, мгла, и т.д.) на уровне также есть смена дня и ночи, и ночью уровень становиться крайне опасным, он полностью окутывается тьмой и лишь тусклое освещение света из окон других небоскребов пробивается через темную дымку, а так же становиться наполнен различными сущностями, появляются голоса говорящий из неоткуда, а так же сопровождаемые этим слуховые, тактильные, и визуальные галлюцинации.
 
 [Backrooms in Babylon.js level -1000007 - Infinite Skyscrapers (Version 0 - randomly hanging skyscrapers) | Babylon.js Playground](https://playground.babylonjs.com/#CEHD7X)
 
-<img width="938" height="1668" alt="Небоскрёб_в_пустом_пространстве" src="https://github.com/user-attachments/assets/3ba4ba1b-6518-4401-b246-4b9613b6118c" />
+<img width="400" height="400" alt="Небоскрёб_в_пустом_пространстве" src="https://github.com/user-attachments/assets/3ba4ba1b-6518-4401-b246-4b9613b6118c" />
 
 [Backrooms in Babylon.js level -1000007 - Infinite Skyscrapers (Version 1 - One endless skyscraper) | Babylon.js Playground](https://playground.babylonjs.com/#ECB8UT)
 
-<img width="960" height="720" alt="Небоскребы_из_небоскребов" src="https://github.com/user-attachments/assets/da8d5150-abeb-40f4-b249-5d59ff30caaa" />
+<img width="400" height="400" alt="Небоскребы_из_небоскребов" src="https://github.com/user-attachments/assets/da8d5150-abeb-40f4-b249-5d59ff30caaa" />
 
-<img width="758" height="520" alt="Бесконечные_небоскребы_до_определённой_высоты" src="https://github.com/user-attachments/assets/911796f1-ade9-417f-aff2-fb1ab65e7cbd" />
+<img width="400" height="400" alt="Бесконечные_небоскребы_до_определённой_высоты" src="https://github.com/user-attachments/assets/911796f1-ade9-417f-aff2-fb1ab65e7cbd" />
 
-<img width="5616" height="3744" alt="Небоскрёб_в_пустом_пространстве_2" src="https://github.com/user-attachments/assets/4a823e6b-b4ee-4e4b-874b-7ca403c37779" />
+<img width="400" height="400" alt="Небоскрёб_в_пустом_пространстве_2" src="https://github.com/user-attachments/assets/4a823e6b-b4ee-4e4b-874b-7ca403c37779" />
 
-<img width="5616" height="3744" alt="Небоскрёб_в_пустом_пространстве_1" src="https://github.com/user-attachments/assets/415fb38c-6415-4254-b4e0-d3175f9158e1" />
+<img width="400" height="400" alt="Небоскрёб_в_пустом_пространстве_1" src="https://github.com/user-attachments/assets/415fb38c-6415-4254-b4e0-d3175f9158e1" />
 
-<img width="802" height="606" alt="Инфернальные_хрющёвки" src="https://github.com/user-attachments/assets/ea478c2a-070b-4e76-a420-32be9ec2c18f" />
+<img width="400" height="400" alt="Инфернальные_хрющёвки" src="https://github.com/user-attachments/assets/ea478c2a-070b-4e76-a420-32be9ec2c18f" />
 
-<img width="5616" height="3744" alt="Небоскрёб_в_пустом_пространстве_3" src="https://github.com/user-attachments/assets/c539458e-8ebb-4d3d-a8cb-238260cc797b" />
+<img width="400" height="400" alt="Небоскрёб_в_пустом_пространстве_3" src="https://github.com/user-attachments/assets/c539458e-8ebb-4d3d-a8cb-238260cc797b" />
 
-<img width="976" height="1274" alt="Случайно_висящие_небоскрёбы_в_пустоте_и_повернуты_случайно" src="https://github.com/user-attachments/assets/3d3f2161-0be6-47e1-a38d-392752a93451" />
+<img width="400" height="400" alt="Случайно_висящие_небоскрёбы_в_пустоте_и_повернуты_случайно" src="https://github.com/user-attachments/assets/3d3f2161-0be6-47e1-a38d-392752a93451" />
+
+## Уровень - Бесконечный ковёр 
+
+Представляет из себя бесконечный жёлтый ковёр расположенный в пустоте полностью заполненный огромным ворсянистым рельефом словно увеличенном в тысячи раз размером ковром.
+
+[Backrooms in Babylon.js level Endless Seaweed (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#4SJR2Q)
 
 # Теории заговоров о бэкрумсе
 
