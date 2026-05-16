@@ -601,6 +601,14 @@
 
 [Backrooms on isurfaces (version 59 - Seaweed in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#93LIXU)
 
+Водоросли только сверху вниз.
+
+[Backrooms on isurfaces (version 60 - Seaweed in One chunk from top to bottom) | Babylon.js Playground](https://playground.babylonjs.com/#4E5JWV)
+
+Водоросли только снизу вверх.
+
+[Backrooms on isurfaces (version 61 - Seaweed in One chunk bottom-up) | Babylon.js Playground](https://playground.babylonjs.com/#WI5TU8)
+
 ## Бэкрумс + Гонки
 
 [![Zapis-2024-12-14-03-55-58-220.gif](https://i.postimg.cc/2ST2Z3qv/Zapis-2024-12-14-03-55-58-220.gif)](https://postimg.cc/JsDNwr54)
@@ -747,7 +755,7 @@
 
 Представляет из себя бесконечный жёлтый ковёр расположенный в пустоте полностью заполненный огромным ворсянистым рельефом словно увеличенном в тысячи раз размером ковром.
 
-[Backrooms in Babylon.js level Endless Seaweed (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#4SJR2Q)
+[Backrooms in Babylon.js level Endless fleecy carpet! (Version 0 - FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#4SJR2Q#1)
 
 # Теории заговоров о бэкрумсе
 
