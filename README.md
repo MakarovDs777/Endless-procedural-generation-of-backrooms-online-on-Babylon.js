@@ -779,7 +779,7 @@ NO DATE
 Выходы:
 •	Имеется множество выходов с этого уровня, так как выйти с этого уровня можно с различных уровней в бекрумсе. И поэтому остерегайтесь опасностей, здесь очень легко заблудиться.
 
-[Backrooms in Babylon.js level Endless mountain (Version 0 - FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#IUM4RW)
+[Backrooms in Babylon.js level Endless mountain (Version 0 - FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#IUM4RW#1)
 
 # Теории заговоров о бэкрумсе
 
