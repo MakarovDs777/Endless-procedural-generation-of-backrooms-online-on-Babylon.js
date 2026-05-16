@@ -597,7 +597,7 @@
 
 [Backrooms on isurfaces (version 58 - Endless Pillars XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#MD2XDX)
 
-Процедурный генерацто водорослей 
+Процедурный генератор водорослей.
 
 [Backrooms on isurfaces (version 59 - Seaweed in One chunk) | Babylon.js Playground](https://playground.babylonjs.com/#93LIXU)
 
