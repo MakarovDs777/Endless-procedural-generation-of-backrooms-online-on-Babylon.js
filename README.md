@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="7" src="https://github.com/user-attachments/assets/b5c57809-e078-43df-8203-70c2a8ae3911" />Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 135 кода(ов) созданные мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 136 кода(ов) созданные мной.
 
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
