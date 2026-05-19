@@ -870,7 +870,13 @@ NO DATE
 Сингулярность хаоса – это -9999999999999999999 уровень в бекрумсе, представляет из себя бесконечное неевклидовое пространство с положительной кривизной в самом центре которого находиться гигантская сфера диаметром -9999999999999999999 километров в которой происходит абсолютное применение всех всевозможных существующих вещей, ко всем всевозможным существующим вещам всеми возможными способами. Как правило достичь центра сингулярности хаоса невозможно, в силу равной бесконечной удаленности от 0 точки координаты аппликат по прямой линии, и чем ближе мы приближаемся к центру, тем больше применений от всего ко всему всеми способами происходит, и тем быстрее по экспоненте мы падаем к центру.
 
 [Backrooms in Babylon.js level The Singularity of Chaos (Version 0 - By fragmented version) | Babylon.js Playground](https://playground.babylonjs.com/#0MXQO1)
- 
+
+
+[Backrooms in Babylon.js level The Singularity of Chaos (Version 1 - Not animation) | Babylon.js Playground](https://playground.babylonjs.com/#6MAU8Y)
+
+
+[Backrooms in Babylon.js level The Singularity of Chaos (Version 2 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#G9508O)
+
 Сущности
 
 {NO DATE}
