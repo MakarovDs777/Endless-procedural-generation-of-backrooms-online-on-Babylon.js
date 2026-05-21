@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 141 кода(ов) созданные мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 142 кода(ов) созданные мной.
 
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
@@ -958,7 +958,7 @@ The Backrooms – Бесконечная гора
 
 ## ДОЛИНА КВАНТОВОЙ ПЕНЫ 
 
-
+<img width="400" height="400" alt="QuantumFoaValley" src="https://github.com/user-attachments/assets/8b2b4f0b-ea70-493d-b366-d487eef1f309" />
 
 Сущности
 
