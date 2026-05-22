@@ -976,6 +976,10 @@ The Backrooms – Бесконечная гора
 
 [Backrooms in Babylon.js level The Valley of Quantum foam (Version 0 - Valley of the Lunar Craters) | Babylon.js Playground](https://playground.babylonjs.com/#11UL9H)
 
+Теперь нужно все параметры GUI из квантовой пены [MakarovDs777/Quantum-foam-generator-online-on-babylon.js](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
+
+[Backrooms in Babylon.js level The Valley of Quantum foam (Version 1 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#BP5V9R)
+
 # Теории заговоров о бэкрумсе
 
 Оглавление:
