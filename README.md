@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 144 кода(ов) созданные мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 145 кода(ов) созданные мной.
 
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
@@ -1011,6 +1011,12 @@ The Backrooms – Бесконечная гора
 [Backrooms in Babylon.js level The Impluzia (Version 1 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#GIXUAO)
 
 Короче в любом случае это интереснная идея для развития!
+
+## The Backrooms – ОКЕАН ВОЗДУШНЫХ ШАРОВ
+
+Представляет из себя бесконечный в глубину, и ширину бассейн, неровно полностью заполненный различными видами воздушных шаров.
+
+[Backrooms in Babylon.js level Ocean of balls (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#ETZVJH)
 
 # Теории заговоров о бэкрумсе
 
