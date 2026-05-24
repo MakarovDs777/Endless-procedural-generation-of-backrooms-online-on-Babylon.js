@@ -1018,6 +1018,12 @@ The Backrooms – Бесконечная гора
 
 [Backrooms in Babylon.js level Ocean of balls (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#ETZVJH)
 
+## The Backrooms – ОКЕАН КОНФЕТ
+
+Представляет из себя бесконечный в глубину, и ширину бассейн, неровно полностью заполненный различными видами конфет.
+
+[Backrooms in Babylon.js level Ocean of sweets (Version 0)](https://playground.babylonjs.com/#10NOYK)
+
 # Теории заговоров о бэкрумсе
 
 Оглавление:
