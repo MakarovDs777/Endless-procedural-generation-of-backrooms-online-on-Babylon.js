@@ -571,7 +571,7 @@
 
 Хаос коридоров но только с острыми гранями.
 
-[Backrooms on isurfaces (version 52 - Corridors-multi-storey-chaos-poolrooms pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#J9PA8Z)
+[Backrooms on isurfaces (version 52 - Corridors-multi-storey-chaos-poolrooms pseudovoxels) | Babylon.js Playground](https://playground.babylonjs.com/#J9PA8Z#1)
 
 Тоже что и 42 версия только бесконечная по XZ.
 
