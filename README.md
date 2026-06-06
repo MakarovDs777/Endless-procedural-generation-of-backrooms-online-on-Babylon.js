@@ -739,9 +739,9 @@
 
 Тоже что и предыдущая только XYZ.
 
-[Backrooms in Babylon.js (Optional version - The Matrix an endless library of text words Russian version XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/)
+[Backrooms in Babylon.js (Optional version - The Matrix an endless library of text words Russian version XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#MUPM0Y#1)
 
-Эта версия вместо слов из массива слова из текста.
+Эта версия где вместо слов из массива - слова из текста.
 
 # Мои уровни
 
