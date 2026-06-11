@@ -751,6 +751,10 @@
 
 ОТЛИЧНО ТЕПЕРЬ МЫ СДЕЛАЕМ БЕСКОНЕЧНУЮ СТЕНУ МАТРИЦЫ С ТЕЛЕПОРТОМ.
 
+[Backrooms in Babylon.js (Optional version - The Matrix Endless Library By symbolic text + Coordinate board XY version) | Babylon.js Playground](https://playground.babylonjs.com/#BLDVLV)
+
+Теперь нужно сделать зарезервированный текст посимвольно в каждой колодке по буквам.
+
 # Мои уровни
 
 Все эти уровни я придумал когда-то давно писал какие-то из них на фандоме закулисья потом ещё много где но их все удалили, и решили реалищовать и написать их все здесь.
