@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 151 кода(ов) созданные мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 152 кода(ов) созданные мной.
 
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
@@ -746,6 +746,10 @@
 [Backrooms in Babylon.js (Optional version - The Matrix an endless library of text lines English version XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#QKJ3KG)
 
 Теперь сдеаем что-бы вместо случайных слов из текста были случайные строки из текста.
+
+[Backrooms in Babylon.js (Optional version - The Matrix Endless Library Russian version + Coordinate board XY version) | Babylon.js Playground](https://playground.babylonjs.com/#7M5MLH)
+
+ОТЛИЧНО ТЕПЕРЬ МЫ СДЕЛАЕМ БЕСКОНЕЧНУЮ СТЕНУ МАТРИЦЫ С ТЕЛЕПОРТОМ.
 
 # Мои уровни
 
