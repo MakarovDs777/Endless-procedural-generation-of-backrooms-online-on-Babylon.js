@@ -705,11 +705,17 @@
 
 [Backrooms in Babylon.js (Optional version - Endless fluctuating ocean of colored noise) | Babylon.js Playground](https://playground.babylonjs.com/#07SF66)
 
-## Уровень - Бесконечное море цветного шума
+## Уровень - Бесконечное океан цветного шума
 
 Но вот теперь осталось лишь сделать бесконечную процедурно генерируемую плоскость цветного шума, и это уже похоже на уровень монохрома.
 
 [Backrooms in Babylon.js (Optional version - Endless colored noises) | Babylon.js Playground](https://playground.babylonjs.com/#3Z112L)
+
+## Уровень - Бесконечный океан плавающих паттернов
+
+Бесконечный океан паттернов.
+
+[Backrooms in Babylon.js (Optional version - Endless ocean of floating patterns) | Babylon.js Playground](https://playground.babylonjs.com/#MTJKDU)
 
 ## Уровень - Матрица
 
