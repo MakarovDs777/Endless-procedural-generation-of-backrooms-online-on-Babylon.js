@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 153 кода(ов) созданные мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 154 кода(ов) каждый из которых созданные лично мной.
 
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
@@ -705,11 +705,15 @@
 
 [Backrooms in Babylon.js (Optional version - Endless fluctuating ocean of colored noise) | Babylon.js Playground](https://playground.babylonjs.com/#07SF66)
 
-## Уровень - Бесконечное океан цветного шума
+## Уровень - Океан глитча
 
 Но вот теперь осталось лишь сделать бесконечную процедурно генерируемую плоскость цветного шума, и это уже похоже на уровень монохрома.
 
 [Backrooms in Babylon.js (Optional version - Endless colored noises) | Babylon.js Playground](https://playground.babylonjs.com/#3Z112L)
+
+Теперь сделаем чёрно-белый шума не цветной.
+
+[Backrooms in Babylon.js (Optional version - Endless white noises) | Babylon.js Playground](https://playground.babylonjs.com/#EZLQI1)
 
 ## Уровень - Бесконечный океан плавающих паттернов
 
