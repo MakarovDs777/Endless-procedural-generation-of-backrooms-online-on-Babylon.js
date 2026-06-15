@@ -761,7 +761,7 @@
 
 ОТЛИЧНО ТЕПЕРЬ МЫ СДЕЛАЕМ БЕСКОНЕЧНУЮ СТЕНУ МАТРИЦЫ С ТЕЛЕПОРТОМ.
 
-[Backrooms in Babylon.js (Optional version - The Matrix Endless Library By symbolic text + Coordinate board XY version) | Babylon.js Playground](https://playground.babylonjs.com/#BLDVLV)
+[Backrooms in Babylon.js (Optional version - The Matrix Endless Library By symbolic text + Coordinate board XY version) | Babylon.js Playground](https://playground.babylonjs.com/#BLDVLV#1)
 
 Теперь нужно сделать зарезервированный текст посимвольно в каждой колодке по буквам.
 
