@@ -73,7 +73,7 @@
 
 В нулевой версии я добавил бесконечный процедурно генерируемый ковер.
 
-[Backrooms in Babylon.js (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#BM5M6A)
+[Backrooms in Babylon.js (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#BM5M6A#1)
 
 В первой версии я добавил случайно сгенерированные, и случайно повернутые стены на этом процедурно сгенерированном ковре.
 
