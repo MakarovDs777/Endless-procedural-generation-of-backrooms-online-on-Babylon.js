@@ -321,6 +321,10 @@
 
 [Backrooms in Babylon.js (Optional version - Endless Carpet XZ version but no URL just RGB Image) | Babylon.js Playground](https://playground.babylonjs.com/#CRW33S#1)
 
+Тоже самое что и стена бесконечная только из ASCII символов картинку делающие.
+
+[Backrooms in Babylon.js (Optional version - An infinitely generated wall) | Babylon.js Playground](https://playground.babylonjs.com/#I1LGV0)
+
 ## Другие процедурные генераторы в бэкрумс
 
 Голографическая версия многоэтажных басеинов залов перевод с [Multy storey poolrooms](https://github.com/MakarovDs777/Procedural-generation-of-the-backrooms-python/blob/main/With-polygons/multi-storey-poolrooms.py) пайтон версии... Типа кто помнит что когда вращаешь камеру с одной стороны есть с другой нету это типа такое многомерное пространство получается или типа случайно как-то поялвяется при вращаение случайная структура...
