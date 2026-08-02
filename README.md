@@ -1136,6 +1136,10 @@ Noclipping, иногда может привести вас сюда. Но он 
 
 [Backrooms in Babylon.js level Heaven of Eyes (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#ERJM6V)
 
+Нахер воксели мы сделаем изурфейсы.
+
+[Backrooms in Babylon.js level Heaven of Eyes (Version 1 - Isurfaces sky-clouds) | Babylon.js Playground](https://playground.babylonjs.com/#9COF8O)
+
 # Теории заговоров о бэкрумсе
 
 Оглавление:
