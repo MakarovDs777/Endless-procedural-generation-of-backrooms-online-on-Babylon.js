@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 160 кода(ов) каждый из которых созданные лично мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 161 кода(ов) каждый из которых созданные лично мной.
 
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
@@ -1143,6 +1143,10 @@ Noclipping, иногда может привести вас сюда. Но он 
 Добавим GUI что-бы сделать облака больше, меньше, и так далее...
 
 [Backrooms in Babylon.js level Heaven of Eyes (Version 2 - Isurfaces sky-clouds + GUI) | Babylon.js Playground](https://playground.babylonjs.com/#H62POG)
+
+Теперь нужно сделать облака рванными ведь в реальности а не имеет целую округлую форму если пресмотрется.
+
+[Backrooms in Babylon.js level Heaven of Eyes (Version 3 - Isurfaces sky - torn clouds) | Babylon.js Playground](https://playground.babylonjs.com/#P4J5KS)
 
 # Теории заговоров о бэкрумсе
 
