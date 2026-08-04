@@ -265,6 +265,10 @@
 
 [Backrooms in Babylon.js (Optional version - Infinitely generated from each other endless high-rise walls) | Babylon.js Playground](https://playground.babylonjs.com/#5HU3BZ)
 
+Бесконечные ковры всевозможных паттернов создания всевозможных картинок.
+
+[Backrooms in Babylon.js (Optional version - Endless Carpet of RLE vsepatterns) | Babylon.js Playground](https://playground.babylonjs.com/#OSHE17#13)
+ 
 Бесконечно генерируемые многоэтажные ковры.
 
 [Backrooms in Babylon.js (Optional version - Infinitely generated infinitely multi-storey carpets) | Babylon.js Playground](https://playground.babylonjs.com/#1VBEPK)
@@ -328,10 +332,6 @@
 Тоже самое что и стена бесконечная только из ASCII символов картинку делающие.
 
 [Backrooms in Babylon.js (Optional version - An infinitely generated wall) | Babylon.js Playground](https://playground.babylonjs.com/#I1LGV0)
-
-Бесконечные ковры всевозможных паттернов создания всевозможных картинок.
-
-[Backrooms in Babylon.js (Optional version - Endless Carpet of RLE vsepatterns) | Babylon.js Playground](https://playground.babylonjs.com/#OSHE17#13)
 
 ## Другие процедурные генераторы в бэкрумс
 
