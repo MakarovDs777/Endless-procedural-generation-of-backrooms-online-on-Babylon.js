@@ -261,19 +261,19 @@
 
 [Backrooms in Babylon.js (Optional version - An infinitely generated wall) | Babylon.js Playground](https://playground.babylonjs.com/#IP4D7B)
 
-Бесконечное количество генерируемых процедурно ковров простирающийся снизу вверх от -Y до +Y равномерно расположеных друг от друга по XZ.
+Бесконечное количество генерируемых процедурно ковров простирающийся снизу вверх от -Y до +Y равномерно расположенных друг от друга по XZ.
 
 [Backrooms in Babylon.js (Optional version - Infinitely generated from each other endless high-rise walls) | Babylon.js Playground](https://playground.babylonjs.com/#5HU3BZ)
 
 Бесконечные ковры всевозможных паттернов создания всевозможных картинок.
 
-[Backrooms in Babylon.js (Optional version - Endless Carpet of RLE vsepatterns) | Babylon.js Playground](https://playground.babylonjs.com/#OSHE17#13)
+[Backrooms in Babylon.js (Optional version - Endless Carpet of RLE vsepatterns) | Babylon.js Playground](https://playground.babylonjs.com/#OSHE17#14)
  
 Бесконечно генерируемые многоэтажные ковры.
 
 [Backrooms in Babylon.js (Optional version - Infinitely generated infinitely multi-storey carpets) | Babylon.js Playground](https://playground.babylonjs.com/#1VBEPK)
 
-Представьте что бэкрумс это бесконечный куб заполненый замкнутыми кубами! Вот с чего надо было начать...
+Представьте что бэкрумс это бесконечный куб заполненный замкнутыми кубами! Вот с чего надо было начать...
 
 [Backrooms in Babylon.js (Optional version - Infinite dense space of cubes XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#RM8AZ7)
 
@@ -281,7 +281,7 @@
 
 [Backrooms in Babylon.js (Optional version - Endless Cubic Caves XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#P9WI82)
 
-После долгих мучений, и страданий с бэкрумс я все таки решил вернуться к своей изначальной задумке которую мне не удалось реализовать изначально но пытаясь сново пойти старыми путями случайно создал уровень Black Zone где на половину сломанные помещения, и комнаты висящие в пустоте.
+После долгих мучений, и страданий с бэкрумс я все таки решил вернуться к своей изначальной задумке которую мне не удалось реализовать изначально но пытаясь снова пойти старыми путями случайно создал уровень Black Zone где на половину сломанные помещения, и комнаты висящие в пустоте.
 
 [Backrooms in Babylon.js (Optional version - Black zone) | Babylon.js Playground](https://playground.babylonjs.com/#OB1SG3)
 
