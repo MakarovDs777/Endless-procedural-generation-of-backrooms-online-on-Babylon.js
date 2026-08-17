@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 162 кода(ов) каждый из которых созданные лично мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 163 кода(ов) каждый из которых созданные лично мной.
 
 Тема созданна на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили, и теперь пришлось писать всё здесь.
 
@@ -1157,6 +1157,10 @@ Noclipping, иногда может привести вас сюда. Но он 
 Это уровень 12234567890 - Представляющий из себя бесконечный океан наполненный разными цифрами.
 
 [Backrooms in Babylon.js level An endless ocean of numbers (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#XYYM7E)
+
+Отлично теперь сделаем числа стоя.
+
+[Backrooms in Babylon.js level An endless ocean of numbers (Version 1 - Standing numbers) | Babylon.js Playground](https://playground.babylonjs.com/#BXOVQ0)
 
 Крутая эта идея с долиной цифр стоило бы развить как нибудь эту идею например создать горы чисел, биомы, животных из цифр, и типа это свой мир состоящий из цифр, и так далее кроме цифр всякие математические операторы, и происходит всякое странное взаимодействие, и прочая дичь.
 
