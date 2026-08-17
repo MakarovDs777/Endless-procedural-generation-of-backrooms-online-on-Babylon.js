@@ -1162,6 +1162,10 @@ Noclipping, иногда может привести вас сюда. Но он 
 
 [Backrooms in Babylon.js level An endless ocean of numbers (Version 1 - Standing numbers) | Babylon.js Playground](https://playground.babylonjs.com/#BXOVQ0)
 
+Теперь сделаем столбы из чисел вверх на случайное количество этажей растущие.
+
+[Backrooms in Babylon.js level An endless ocean of numbers (Version 2 - Pillars of numbers) | Babylon.js Playground](https://playground.babylonjs.com/#LNCBB6)
+
 Крутая эта идея с долиной цифр стоило бы развить как нибудь эту идею например создать горы чисел, биомы, животных из цифр, и типа это свой мир состоящий из цифр, и так далее кроме цифр всякие математические операторы, и происходит всякое странное взаимодействие, и прочая дичь.
 
 # Теории заговоров о бэкрумсе
