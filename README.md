@@ -1174,6 +1174,10 @@ Noclipping, иногда может привести вас сюда. Но он 
 
 [Backrooms in Babylon.js level Endless Words Forest! (Version 0 - Masks XYZ relief version) | Babylon.js Playground](https://playground.babylonjs.com/#EIB678)
 
+Добавим телепорт.
+
+[Backrooms in Babylon.js level Endless Words Forest! (Version 1 - Masks XYZ relief version + Teleport)](https://playground.babylonjs.com/#QHD726)
+
 # Теории заговоров о бэкрумсе
 
 Оглавление:
