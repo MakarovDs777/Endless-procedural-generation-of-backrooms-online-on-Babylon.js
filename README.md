@@ -1192,6 +1192,10 @@ Noclipping, иногда может привести вас сюда. Но он 
 
 [Backrooms in Babylon.js level Endless Tree (Version 0 - The endless withered tree) | Babylon.js Playground](https://playground.babylonjs.com/#EWVXP4#1)
 
+# Уровень - EDAFJ8FDG234
+
+[Backrooms in Babylon.js level EDAFJ8FDG234 (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#YOP0Q90)
+
 # Теории заговоров о бэкрумсе
 
 Оглавление:
