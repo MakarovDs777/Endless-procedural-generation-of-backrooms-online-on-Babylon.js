@@ -1196,6 +1196,12 @@ Noclipping, иногда может привести вас сюда. Но он 
 
 [Backrooms in Babylon.js level EDAFJ8FDG234 (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#YOP0Q90)
 
+# Уровень - Бесконечный лес слов 3D
+
+Тоже что и бесконечне лес лов выше только в 3D а не в 2D
+
+[Backrooms in Babylon.js level Endless Valley of Words (Version 0 - Uniform random words) | Babylon.js Playground](https://playground.babylonjs.com/#FWA2BO)
+
 # Теории заговоров о бэкрумсе
 
 Оглавление:
