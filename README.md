@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 170 кода(ов) каждый из которых созданные мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 171 кода(ов) каждый из которых созданные мной.
 
 Тема создана на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили то чего я не ожидал, и теперь пришлось писать всё здесь.
 
@@ -1198,7 +1198,7 @@ Noclipping, иногда может привести вас сюда. Но он 
 
 # Уровень - Бесконечный лес слов 3D
 
-Тоже что и бесконечне лес лов выше только в 3D а не в 2D
+Тоже что и бесконечный лес слов выше только в 3D а не в 2D
 
 [Backrooms in Babylon.js level Endless Valley of Words (Version 0 - Uniform random words) | Babylon.js Playground](https://playground.babylonjs.com/#FWA2BO)
 
