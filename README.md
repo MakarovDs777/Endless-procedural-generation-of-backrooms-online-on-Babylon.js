@@ -293,7 +293,7 @@
 
 Версия от моего давнего приятеля CodingCrusader [оригинал комментария](https://forum.babylonjs.com/t/coding-crusaders/44765/382) но мой аккаунт к сожалению был удален модератором... Вообще его версия это просто бесконечные кубиклы но он не залил её на плошадку бабилона так что я переписал его код без html.
 
-[Backrooms in Babylon.js (Optional version - Endless Cubicles CodingCrusader) | Babylon.js Playground](https://playground.babylonjs.com/#IQ407T)
+[Backrooms in Babylon.js (Optional version - Endless Cubicles CodingCrusader) | Babylon.js Playground](https://playground.babylonjs.com/#IQ407T#1)
 
 Бесконечная процедурная генерация GLB структур по XZ.
 
