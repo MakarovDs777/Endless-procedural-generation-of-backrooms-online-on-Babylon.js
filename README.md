@@ -207,11 +207,11 @@
 
 [Backrooms in Babylon.js (Optional version - Endless Building XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#3US01K#0)
 
-Бесконечный процедурно генерируемый бэкрумс но в одном измерении один биом, в другом измерении другой биом, и так пока измерения не закончятся.
+Бесконечный процедурно генерируемый бэкрумс но в одном измерении один биом, в другом измерении другой биом, и так пока измерения не закончатся.
 
-[Backrooms in Babylon.js (Optional version - Different dimensions with the same different biomes but in XYZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#FMT8P7#0)
+[Backrooms in Babylon.js (Optional version - Different dimensions with the same different biomes but in XYZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#FMT8P7#1)
 
-Новый челендж пробежаться по полу из обрезков случайных винтялиционных труб, и выжить.
+Новый челлендж пробежаться по полу из обрезков случайных вентиляционных труб, и выжить.
 
 [Backrooms in Babylon.js (Optional version - Endless trimming of ventilation pipes XZ version) | Babylon.js Playground.js](https://playground.babylonjs.com/#Z6EBKY#0)
 
