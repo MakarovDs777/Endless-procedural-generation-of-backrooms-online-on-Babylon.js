@@ -1,4 +1,4 @@
-Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 171 кода(ов) каждый из которых созданные мной.
+Наборы FPS игр бэкрумс в стиле свободного мира с бесконечной процедурной генерации включающий 172 кода(ов) каждый из которых созданные мной.
 
 Тема создана на [Endless backrooms in Babylon.js! - Demos and projects - Babylon.js](https://forum.babylonjs.com/t/endless-backrooms-in-babylon-js/55544/45) но потом мой аккаунт удалили то чего я не ожидал, и теперь пришлось писать всё здесь.
 
@@ -1201,6 +1201,12 @@ Noclipping, иногда может привести вас сюда. Но он 
 Тоже что и бесконечный лес слов выше только в 3D а не в 2D
 
 [Backrooms in Babylon.js level Endless Valley of Words (Version 0 - Uniform random words) | Babylon.js Playground](https://playground.babylonjs.com/#FWA2BO)
+
+# Уровень - Бесконечный рекурсивный дом 
+
+Представьте что вы находитесь в коробке и у вас есть два манипулятора которые управляют частями дома и производя действия с манипулятором gizmos вы расширяете, сжимаете, растягиваете дом в котором живёт и так со всеми бесконечными версиями дома по xyz!
+
+[Backrooms in Babylon.js level The Infinite Recursion House (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#Y8WM5B)
 
 # Теории заговоров о бэкрумсе
 
